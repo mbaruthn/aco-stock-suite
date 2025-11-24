@@ -1006,7 +1006,7 @@ async function processExitBatchFromGroup(groupIdOverride, context = {}) {
 }
 
 // ---- Health & Logs
-app.get('/health', (req, res) => res.json({ ok: true }))
+app.get('/health', (req, res) => res.json({ ok: true, version: 'v0.1' }))
 app.get('/api/logs', (req, res) => {
   try {
     if (!fs.existsSync(outPath)) return res.json({ text: '' })
