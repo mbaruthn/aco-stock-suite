@@ -1,0 +1,1499 @@
+[2025-08-19T09:55:52.651Z] [ACO Stock Suite] listening on :8080
+[2025-08-19T10:06:05.606Z] [ACO Stock Suite] listening on :8080
+[2025-08-19T10:06:27.950Z] [ACO Stock Suite] listening on :8080
+[2025-08-19T10:25:59.066Z] [ACO Stock Suite] listening on :8080
+[2025-08-19T11:37:16.252Z] ERR /api/process AxiosError: Request failed with status code 401
+[2025-08-19T11:37:59.860Z] ERR /api/process AxiosError: Request failed with status code 401
+[2025-08-19T12:12:55.420Z] [ACO Stock Suite] listening on :8080
+[2025-08-19T13:54:41.142Z] [ACO Stock Suite] listening on :8080
+[2025-08-19T13:55:57.858Z] [ACO Stock Suite] listening on :8080
+[2025-08-19T14:14:19.202Z] [ACO Stock Suite] listening on :8080
+[2025-08-19T14:20:08.665Z] [ACO Stock Suite] listening on :8080
+[2025-08-19T14:23:09.841Z] [ACO Stock Suite] listening on :8080
+[2025-08-19T14:44:19.828Z] [ACO Stock Suite] listening on :8080
+[2025-08-19T14:54:03.691Z] [ACO Stock Suite] listening on :8080
+[2025-08-19T14:54:25.221Z] SKIP: item 2075342805 eksik barkod/qty
+[2025-08-19T14:54:25.223Z] SKIP: item 2078878180 eksik barkod/qty
+[2025-08-19T14:54:25.225Z] SKIP: item 2079986612 eksik barkod/qty
+[2025-08-19T14:54:25.226Z] SKIP: item 2102965399 eksik barkod/qty
+[2025-08-19T14:54:25.227Z] SKIP: item 2103480188 eksik barkod/qty
+[2025-08-19T15:28:28.342Z] Webhook trigger: group=topics
+[2025-08-19T15:28:30.645Z] SKIP: item 2075342805 eksik barkod/qty
+[2025-08-19T15:28:30.647Z] SKIP: item 2078878180 eksik barkod/qty
+[2025-08-19T15:28:30.648Z] SKIP: item 2079986612 eksik barkod/qty
+[2025-08-19T15:28:30.649Z] SKIP: item 2102965399 eksik barkod/qty
+[2025-08-19T15:33:30.096Z] Webhook trigger: group=topics
+[2025-08-19T15:33:32.101Z] SKIP: item 2075342805 eksik barkod/qty
+[2025-08-19T15:33:32.103Z] SKIP: item 2078878180 eksik barkod/qty
+[2025-08-19T15:33:32.104Z] SKIP: item 2079986612 eksik barkod/qty
+[2025-08-19T15:33:32.106Z] SKIP: item 2102965399 eksik barkod/qty
+[2025-08-20T04:56:43.445Z] [ACO Stock Suite] listening on :8080
+[2025-08-20T04:57:55.657Z] [ACO Stock Suite] listening on :8080
+[2025-08-20T04:58:22.379Z] Webhook trigger: group=topics
+[2025-08-20T04:58:25.264Z] ERR /webhook Error: [{"message":"Unknown type \"ItemsByColumnValuesRule\". Did you mean \"ItemsPageByColumnValuesQuery\"?","locations":[{"line":1,"column":29}]},{"message":"Unknown argument \"rules\" on field \"Query.items_page_by_column_values\".","locations":[{"line":2,"column":53}]}]
+[2025-08-20T04:59:22.243Z] Webhook trigger: group=topics
+[2025-08-20T04:59:24.821Z] ERR /webhook Error: [{"message":"Unknown type \"ItemsByColumnValuesRule\". Did you mean \"ItemsPageByColumnValuesQuery\"?","locations":[{"line":1,"column":29}]},{"message":"Unknown argument \"rules\" on field \"Query.items_page_by_column_values\".","locations":[{"line":2,"column":53}]}]
+[2025-08-20T05:00:22.321Z] Webhook trigger: group=topics
+[2025-08-20T05:00:25.357Z] ERR /webhook Error: [{"message":"Unknown type \"ItemsByColumnValuesRule\". Did you mean \"ItemsPageByColumnValuesQuery\"?","locations":[{"line":1,"column":29}]},{"message":"Unknown argument \"rules\" on field \"Query.items_page_by_column_values\".","locations":[{"line":2,"column":53}]}]
+[2025-08-20T05:01:22.486Z] Webhook trigger: group=topics
+[2025-08-20T05:01:30.110Z] ERR /webhook Error: [{"message":"Unknown type \"ItemsByColumnValuesRule\". Did you mean \"ItemsPageByColumnValuesQuery\"?","locations":[{"line":1,"column":29}]},{"message":"Unknown argument \"rules\" on field \"Query.items_page_by_column_values\".","locations":[{"line":2,"column":53}]}]
+[2025-08-20T05:02:22.265Z] Webhook trigger: group=topics
+[2025-08-20T05:02:24.944Z] ERR /webhook Error: [{"message":"Unknown type \"ItemsByColumnValuesRule\". Did you mean \"ItemsPageByColumnValuesQuery\"?","locations":[{"line":1,"column":29}]},{"message":"Unknown argument \"rules\" on field \"Query.items_page_by_column_values\".","locations":[{"line":2,"column":53}]}]
+[2025-08-20T05:02:25.207Z] Webhook trigger: group=topics
+[2025-08-20T05:02:27.735Z] ERR /webhook Error: [{"message":"Unknown type \"ItemsByColumnValuesRule\". Did you mean \"ItemsPageByColumnValuesQuery\"?","locations":[{"line":1,"column":29}]},{"message":"Unknown argument \"rules\" on field \"Query.items_page_by_column_values\".","locations":[{"line":2,"column":53}]}]
+[2025-08-20T05:04:25.216Z] Webhook trigger: group=topics
+[2025-08-20T05:04:27.545Z] ERR /webhook Error: [{"message":"Unknown type \"ItemsByColumnValuesRule\". Did you mean \"ItemsPageByColumnValuesQuery\"?","locations":[{"line":1,"column":29}]},{"message":"Unknown argument \"rules\" on field \"Query.items_page_by_column_values\".","locations":[{"line":2,"column":53}]}]
+[2025-08-20T05:06:25.199Z] Webhook trigger: group=topics
+[2025-08-20T05:06:27.800Z] ERR /webhook Error: [{"message":"Unknown type \"ItemsByColumnValuesRule\". Did you mean \"ItemsPageByColumnValuesQuery\"?","locations":[{"line":1,"column":29}]},{"message":"Unknown argument \"rules\" on field \"Query.items_page_by_column_values\".","locations":[{"line":2,"column":53}]}]
+[2025-08-20T05:08:25.196Z] Webhook trigger: group=topics
+[2025-08-20T05:08:28.464Z] ERR /webhook Error: [{"message":"Unknown type \"ItemsByColumnValuesRule\". Did you mean \"ItemsPageByColumnValuesQuery\"?","locations":[{"line":1,"column":29}]},{"message":"Unknown argument \"rules\" on field \"Query.items_page_by_column_values\".","locations":[{"line":2,"column":53}]}]
+[2025-08-20T05:09:20.628Z] [ACO Stock Suite] listening on :8080
+[2025-08-20T05:10:24.276Z] Webhook trigger: group=topics
+[2025-08-20T05:10:25.214Z] Webhook trigger: group=topics
+[2025-08-20T05:10:26.732Z] ERR /webhook Error: [{"message":"Cannot query field \"items_by_column_values\" on type \"Query\". Did you mean \"items_page_by_column_values\"?","locations":[{"line":3,"column":7}]}]
+[2025-08-20T05:10:28.073Z] ERR /webhook Error: [{"message":"Cannot query field \"items_by_column_values\" on type \"Query\". Did you mean \"items_page_by_column_values\"?","locations":[{"line":3,"column":7}]}]
+[2025-08-20T05:11:24.187Z] Webhook trigger: group=topics
+[2025-08-20T05:11:26.721Z] ERR /webhook Error: [{"message":"Cannot query field \"items_by_column_values\" on type \"Query\". Did you mean \"items_page_by_column_values\"?","locations":[{"line":3,"column":7}]}]
+[2025-08-20T05:12:24.180Z] Webhook trigger: group=topics
+[2025-08-20T05:12:25.199Z] Webhook trigger: group=topics
+[2025-08-20T05:12:26.755Z] ERR /webhook Error: [{"message":"Cannot query field \"items_by_column_values\" on type \"Query\". Did you mean \"items_page_by_column_values\"?","locations":[{"line":3,"column":7}]}]
+[2025-08-20T05:12:27.635Z] ERR /webhook Error: [{"message":"Cannot query field \"items_by_column_values\" on type \"Query\". Did you mean \"items_page_by_column_values\"?","locations":[{"line":3,"column":7}]}]
+[2025-08-20T05:13:24.204Z] Webhook trigger: group=topics
+[2025-08-20T05:13:26.820Z] ERR /webhook Error: [{"message":"Cannot query field \"items_by_column_values\" on type \"Query\". Did you mean \"items_page_by_column_values\"?","locations":[{"line":3,"column":7}]}]
+[2025-08-20T05:14:24.197Z] Webhook trigger: group=topics
+[2025-08-20T05:14:25.217Z] Webhook trigger: group=topics
+[2025-08-20T05:14:27.103Z] ERR /webhook Error: [{"message":"Cannot query field \"items_by_column_values\" on type \"Query\". Did you mean \"items_page_by_column_values\"?","locations":[{"line":3,"column":7}]}]
+[2025-08-20T05:14:27.307Z] Webhook trigger: group=topics
+[2025-08-20T05:14:27.660Z] ERR /webhook Error: [{"message":"Cannot query field \"items_by_column_values\" on type \"Query\". Did you mean \"items_page_by_column_values\"?","locations":[{"line":3,"column":7}]}]
+[2025-08-20T05:14:29.539Z] ERR /webhook Error: [{"message":"Cannot query field \"items_by_column_values\" on type \"Query\". Did you mean \"items_page_by_column_values\"?","locations":[{"line":3,"column":7}]}]
+[2025-08-20T05:16:25.235Z] Webhook trigger: group=topics
+[2025-08-20T05:16:27.312Z] Webhook trigger: group=topics
+[2025-08-20T05:16:28.224Z] ERR /webhook Error: [{"message":"Cannot query field \"items_by_column_values\" on type \"Query\". Did you mean \"items_page_by_column_values\"?","locations":[{"line":3,"column":7}]}]
+[2025-08-20T05:16:29.731Z] ERR /webhook Error: [{"message":"Cannot query field \"items_by_column_values\" on type \"Query\". Did you mean \"items_page_by_column_values\"?","locations":[{"line":3,"column":7}]}]
+[2025-08-20T05:18:25.255Z] Webhook trigger: group=topics
+[2025-08-20T05:18:27.329Z] Webhook trigger: group=topics
+[2025-08-20T05:18:27.699Z] ERR /webhook Error: [{"message":"Cannot query field \"items_by_column_values\" on type \"Query\". Did you mean \"items_page_by_column_values\"?","locations":[{"line":3,"column":7}]}]
+[2025-08-20T05:18:29.593Z] ERR /webhook Error: [{"message":"Cannot query field \"items_by_column_values\" on type \"Query\". Did you mean \"items_page_by_column_values\"?","locations":[{"line":3,"column":7}]}]
+[2025-08-20T05:18:49.840Z] [ACO Stock Suite] listening on :8080
+[2025-08-20T05:19:11.285Z] Webhook trigger: group=topics
+[2025-08-20T05:19:19.020Z] OK: 11122211 +14 [0→14]
+[2025-08-20T05:19:23.831Z] OK: 2222 +30 [0→30]
+[2025-08-20T05:19:28.832Z] OK: 556677 +10 [0→10]
+[2025-08-20T05:19:33.071Z] OK: 2222 +15 [30→45]
+[2025-08-20T05:20:25.265Z] Webhook trigger: group=topics
+[2025-08-20T05:20:27.352Z] Webhook trigger: group=topics
+[2025-08-20T06:01:25.440Z] [ACO Stock Suite] listening on :8080
+[2025-08-20T06:07:24.377Z] [ACO Stock Suite] listening on :8080
+[2025-08-20T06:08:24.412Z] AUTO-LINK: entry 2106513987 -> catalog 2078875489 (barcode=2222)
+[2025-08-20T06:08:41.501Z] AUTO-LINK: entry 2106514301 -> catalog 2075507761 (barcode=1212)
+[2025-08-20T06:08:53.711Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T06:08:53.712Z] Webhook trigger: group=topics
+[2025-08-20T06:09:02.211Z] OK: 2222 +11 [0→11]
+[2025-08-20T06:09:08.382Z] OK: 2222 +100 [11→111]
+[2025-08-20T06:09:14.951Z] OK: 1212 +100 [0→100]
+[2025-08-20T08:02:47.146Z] [ACO Stock Suite] listening on :8080
+[2025-08-20T08:04:15.362Z] AUTO-LINK: entry 2106695385 -> catalog 2078875489 (barcode=2222)
+[2025-08-20T08:05:13.263Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T08:05:13.264Z] Webhook trigger: group=topics
+[2025-08-20T08:05:23.656Z] SKIP: item 2106695385 barkod='2222' qty='0' source='name' qtyCol='numeric_mktbnk2w'
+[2025-08-20T08:05:23.659Z] ERR /webhook ReferenceError: Cannot access 'results' before initialization
+[2025-08-20T08:05:25.517Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T08:05:25.518Z] Webhook trigger: group=topics
+[2025-08-20T08:05:34.604Z] OK: 2222 +13 [111→124]
+[2025-08-20T08:05:49.582Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T08:05:49.583Z] Webhook trigger: group=topics
+[2025-08-20T09:13:37.824Z] AUTO-LINK: entry 2106867988 -> catalog 2075507761 (barcode=1212)
+[2025-08-20T09:13:55.183Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:13:55.184Z] Webhook trigger: group=topics
+[2025-08-20T09:14:04.311Z] OK: 1212 +13 [100→113]
+[2025-08-20T09:24:13.716Z] [ACO Stock Suite] listening on :8080
+[2025-08-20T09:24:49.525Z] AUTO-LINK: entry 2106901774 -> catalog 2078875489 (barcode=2222)
+[2025-08-20T09:24:51.254Z] AUTO-LINK: entry 2106901832 -> catalog 2075507761 (barcode=1212)
+[2025-08-20T09:24:56.155Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:24:56.156Z] Webhook trigger: group=topics
+[2025-08-20T09:24:57.583Z] ERR /webhook ReferenceError: it is not defined
+[2025-08-20T09:25:13.587Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:25:13.588Z] Webhook trigger: group=topics
+[2025-08-20T09:25:14.675Z] ERR /webhook ReferenceError: it is not defined
+[2025-08-20T09:25:56.008Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:25:56.010Z] Webhook trigger: group=topics
+[2025-08-20T09:25:56.977Z] ERR /webhook ReferenceError: it is not defined
+[2025-08-20T09:26:13.657Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:26:13.658Z] Webhook trigger: group=topics
+[2025-08-20T09:26:14.755Z] ERR /webhook ReferenceError: it is not defined
+[2025-08-20T09:26:55.839Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:26:55.840Z] Webhook trigger: group=topics
+[2025-08-20T09:26:57.024Z] ERR /webhook ReferenceError: it is not defined
+[2025-08-20T09:27:13.562Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:27:13.563Z] Webhook trigger: group=topics
+[2025-08-20T09:27:14.714Z] ERR /webhook ReferenceError: it is not defined
+[2025-08-20T09:27:55.746Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:27:55.747Z] Webhook trigger: group=topics
+[2025-08-20T09:27:56.741Z] ERR /webhook ReferenceError: it is not defined
+[2025-08-20T09:28:14.121Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:28:14.122Z] Webhook trigger: group=topics
+[2025-08-20T09:28:15.290Z] ERR /webhook ReferenceError: it is not defined
+[2025-08-20T09:28:55.829Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:28:55.830Z] Webhook trigger: group=topics
+[2025-08-20T09:28:56.851Z] ERR /webhook ReferenceError: it is not defined
+[2025-08-20T09:28:59.456Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:28:59.457Z] Webhook trigger: group=topics
+[2025-08-20T09:29:00.503Z] ERR /webhook ReferenceError: it is not defined
+[2025-08-20T09:29:13.589Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:29:13.590Z] Webhook trigger: group=topics
+[2025-08-20T09:29:14.667Z] ERR /webhook ReferenceError: it is not defined
+[2025-08-20T09:29:16.842Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:29:16.843Z] Webhook trigger: group=topics
+[2025-08-20T09:29:17.870Z] ERR /webhook ReferenceError: it is not defined
+[2025-08-20T09:30:59.596Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:30:59.597Z] Webhook trigger: group=topics
+[2025-08-20T09:31:01.061Z] ERR /webhook ReferenceError: it is not defined
+[2025-08-20T09:31:16.775Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:31:16.776Z] Webhook trigger: group=topics
+[2025-08-20T09:31:18.781Z] ERR /webhook ReferenceError: it is not defined
+[2025-08-20T09:32:59.227Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:32:59.229Z] Webhook trigger: group=topics
+[2025-08-20T09:33:00.280Z] ERR /webhook ReferenceError: it is not defined
+[2025-08-20T09:33:16.689Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:33:16.691Z] Webhook trigger: group=topics
+[2025-08-20T09:33:17.791Z] ERR /webhook ReferenceError: it is not defined
+[2025-08-20T09:34:59.184Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:34:59.185Z] Webhook trigger: group=topics
+[2025-08-20T09:35:00.393Z] ERR /webhook ReferenceError: it is not defined
+[2025-08-20T09:35:16.761Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:35:16.762Z] Webhook trigger: group=topics
+[2025-08-20T09:35:17.859Z] ERR /webhook ReferenceError: it is not defined
+[2025-08-20T09:36:59.082Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:36:59.083Z] Webhook trigger: group=topics
+[2025-08-20T09:36:59.995Z] ERR /webhook ReferenceError: it is not defined
+[2025-08-20T09:37:16.741Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:37:16.743Z] Webhook trigger: group=topics
+[2025-08-20T09:37:18.910Z] ERR /webhook ReferenceError: it is not defined
+[2025-08-20T09:38:59.448Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:38:59.449Z] Webhook trigger: group=topics
+[2025-08-20T09:39:00.560Z] ERR /webhook ReferenceError: it is not defined
+[2025-08-20T09:39:16.589Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:39:16.590Z] Webhook trigger: group=topics
+[2025-08-20T09:39:17.780Z] ERR /webhook ReferenceError: it is not defined
+[2025-08-20T09:39:28.780Z] [ACO Stock Suite] listening on :8080
+[2025-08-20T09:39:44.946Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:39:44.947Z] Webhook trigger: group=topics
+[2025-08-20T09:39:47.266Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:40:44.602Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:40:44.604Z] Webhook trigger: group=topics
+[2025-08-20T09:40:46.996Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:40:59.375Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:40:59.421Z] Webhook trigger: group=topics
+[2025-08-20T09:41:01.449Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:41:16.682Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:41:16.683Z] Webhook trigger: group=topics
+[2025-08-20T09:41:19.111Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:41:44.412Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:41:44.413Z] Webhook trigger: group=topics
+[2025-08-20T09:41:46.696Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:42:44.498Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:42:44.499Z] Webhook trigger: group=topics
+[2025-08-20T09:42:47.650Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:42:58.639Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:42:58.640Z] Webhook trigger: group=topics
+[2025-08-20T09:43:00.755Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:43:16.509Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:43:16.510Z] Webhook trigger: group=topics
+[2025-08-20T09:43:18.576Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:43:44.532Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:43:44.533Z] Webhook trigger: group=topics
+[2025-08-20T09:43:46.932Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:43:49.200Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:43:49.201Z] Webhook trigger: group=topics
+[2025-08-20T09:43:51.085Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:44:59.053Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:44:59.054Z] Webhook trigger: group=topics
+[2025-08-20T09:45:00.789Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:45:16.910Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:45:16.911Z] Webhook trigger: group=topics
+[2025-08-20T09:45:19.642Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:45:49.210Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:45:49.211Z] Webhook trigger: group=topics
+[2025-08-20T09:45:50.902Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:46:58.747Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:46:58.748Z] Webhook trigger: group=topics
+[2025-08-20T09:47:01.704Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:47:16.826Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:47:16.827Z] Webhook trigger: group=topics
+[2025-08-20T09:47:19.197Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:47:49.276Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:47:49.277Z] Webhook trigger: group=topics
+[2025-08-20T09:47:51.400Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:48:59.489Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:48:59.490Z] Webhook trigger: group=topics
+[2025-08-20T09:49:01.979Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:49:17.142Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:49:17.143Z] Webhook trigger: group=topics
+[2025-08-20T09:49:21.165Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:49:49.138Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:49:49.139Z] Webhook trigger: group=topics
+[2025-08-20T09:49:51.122Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:50:59.170Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:50:59.171Z] Webhook trigger: group=topics
+[2025-08-20T09:51:01.250Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:51:16.619Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:51:16.621Z] Webhook trigger: group=topics
+[2025-08-20T09:51:18.922Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:51:48.836Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:51:48.837Z] Webhook trigger: group=topics
+[2025-08-20T09:51:50.983Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:52:58.882Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:52:58.883Z] Webhook trigger: group=topics
+[2025-08-20T09:53:00.828Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:53:16.704Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:53:16.705Z] Webhook trigger: group=topics
+[2025-08-20T09:53:18.515Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:53:49.159Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:53:49.160Z] Webhook trigger: group=topics
+[2025-08-20T09:53:50.955Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:54:59.335Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:54:59.336Z] Webhook trigger: group=topics
+[2025-08-20T09:55:01.311Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:55:16.780Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:55:16.781Z] Webhook trigger: group=topics
+[2025-08-20T09:55:18.527Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:55:48.983Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:55:48.984Z] Webhook trigger: group=topics
+[2025-08-20T09:55:50.911Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:56:59.211Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:56:59.212Z] Webhook trigger: group=topics
+[2025-08-20T09:57:03.039Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:57:16.983Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:57:16.984Z] Webhook trigger: group=topics
+[2025-08-20T09:57:18.947Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:57:49.388Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:57:49.389Z] Webhook trigger: group=topics
+[2025-08-20T09:57:51.397Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T09:59:49.175Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T09:59:49.176Z] Webhook trigger: group=topics
+[2025-08-20T09:59:51.198Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T10:01:49.035Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T10:01:49.036Z] Webhook trigger: group=topics
+[2025-08-20T10:01:50.944Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T10:03:49.259Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T10:03:49.260Z] Webhook trigger: group=topics
+[2025-08-20T10:03:51.422Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T10:05:49.511Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T10:05:49.512Z] Webhook trigger: group=topics
+[2025-08-20T10:05:51.634Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T10:07:49.527Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T10:07:49.528Z] Webhook trigger: group=topics
+[2025-08-20T10:07:51.366Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T10:09:49.108Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T10:09:49.109Z] Webhook trigger: group=topics
+[2025-08-20T10:09:51.258Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T10:11:48.931Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T10:11:48.932Z] Webhook trigger: group=topics
+[2025-08-20T10:11:50.932Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T10:15:29.747Z] [ACO Stock Suite] listening on :8080
+[2025-08-20T10:15:45.217Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T10:15:45.218Z] Webhook trigger: group=topics
+[2025-08-20T10:15:48.457Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T10:16:44.945Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T10:16:44.946Z] Webhook trigger: group=topics
+[2025-08-20T10:16:48.432Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T10:17:46.605Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T10:17:46.606Z] Webhook trigger: group=topics
+[2025-08-20T10:17:49.862Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T10:18:44.931Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T10:18:44.932Z] Webhook trigger: group=topics
+[2025-08-20T10:18:48.555Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T10:19:44.704Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T10:19:44.705Z] Webhook trigger: group=topics
+[2025-08-20T10:19:48.103Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T10:19:49.957Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T10:19:49.958Z] Webhook trigger: group=topics
+[2025-08-20T10:19:52.912Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T10:21:50.224Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T10:21:50.225Z] Webhook trigger: group=topics
+[2025-08-20T10:21:53.720Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T10:23:50.389Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T10:23:50.390Z] Webhook trigger: group=topics
+[2025-08-20T10:23:53.588Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T10:25:50.221Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T10:25:50.222Z] Webhook trigger: group=topics
+[2025-08-20T10:25:53.217Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T10:27:50.308Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T10:27:50.309Z] Webhook trigger: group=topics
+[2025-08-20T10:27:53.726Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T10:29:49.899Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T10:29:49.900Z] Webhook trigger: group=topics
+[2025-08-20T10:29:53.187Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T10:31:50.439Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T10:31:50.440Z] Webhook trigger: group=topics
+[2025-08-20T10:31:53.889Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T10:33:50.117Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T10:33:50.118Z] Webhook trigger: group=topics
+[2025-08-20T10:33:53.186Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T10:35:50.117Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T10:35:50.118Z] Webhook trigger: group=topics
+[2025-08-20T10:35:53.336Z] ERR /webhook ReferenceError: increaseCatalogStock is not defined
+[2025-08-20T12:24:31.674Z] [ACO Stock Suite] listening on :8080
+[2025-08-20T12:24:44.352Z] Webhook trigger: group=topics
+[2025-08-20T12:24:44.692Z] ERR /webhook AxiosError: Request failed with status code 401
+[2025-08-20T13:18:57.763Z] [ACO Stock Suite] listening on :8080
+[2025-08-20T13:20:10.622Z] [ACO Stock Suite] listening on :8080
+[2025-08-20T13:26:48.365Z] AUTO-LINK: entry 2107609340 -> catalog 2075507761 (barcode=1212)
+[2025-08-20T13:26:50.506Z] AUTO-LINK: entry 2107609383 -> catalog 2078875489 (barcode=2222)
+[2025-08-20T13:27:24.895Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-20T13:27:24.896Z] Webhook trigger: group=topics
+[2025-08-20T13:27:33.537Z] OK: 1212 +11 [125→136]
+[2025-08-20T13:27:40.214Z] OK: 2222 +12 [136→148]
+[2025-08-20T13:30:04.080Z] [ACO Stock Suite] listening on :8080
+[2025-08-20T13:30:16.151Z] [ACO Stock Suite] listening on :8080
+[2025-08-20T13:31:03.521Z] AUTO-LINK: entry 2107623729 -> catalog 2078875489 (barcode=2222)
+[2025-08-20T13:31:20.102Z] AUTO-LINK: entry 2107623811 -> catalog 2075507761 (barcode=1212)
+[2025-08-25T08:30:55.959Z] [ACO Stock Suite] listening on :8080
+[2025-08-25T08:31:36.167Z] AUTO-LINK: entry 2113532433 -> catalog 2078875489 (barcode=2222)
+[2025-08-25T08:31:55.858Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-25T08:31:55.859Z] Webhook trigger: group=topics
+[2025-08-25T08:32:04.201Z] OK: 2222 +12 [148→160]
+[2025-08-25T08:32:10.777Z] OK: 1212 +12 [136→148]
+[2025-08-25T08:32:16.950Z] OK: 2222 +13 [160→173]
+[2025-08-25T11:50:50.825Z] [ACO Stock Suite] listening on :8080
+[2025-08-25T12:11:59.484Z] AUTO-LINK: entry 2114088016 -> catalog 2078875489 (barcode=2222)
+[2025-08-25T12:12:07.277Z] AUTO-LINK: entry 2114088351 -> catalog 2075507761 (barcode=1212)
+[2025-08-25T12:12:16.226Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-25T12:12:16.228Z] Webhook trigger: group=topics
+[2025-08-25T12:12:28.827Z] OK: 2222 +13 [173→186]
+[2025-08-25T12:12:38.675Z] OK: 1212 +15 [148→163]
+[2025-08-25T12:29:52.929Z] [ACO Stock Suite] listening on :8080
+[2025-08-25T12:30:21.359Z] AUTO-LINK: entry 2114140102 -> catalog 2078875489 (barcode=2222)
+[2025-08-25T12:30:23.731Z] AUTO-LINK: entry 2114140175 -> catalog 2075507761 (barcode=1212)
+[2025-08-25T12:30:39.216Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-25T12:30:39.217Z] Webhook trigger: group=topics
+[2025-08-25T12:30:51.287Z] OK: 2222 +13 [186→199]
+[2025-08-25T12:31:01.006Z] OK: 1212 +10 [163→173]
+[2025-08-25T12:37:19.574Z] [ACO Stock Suite] listening on :8080
+[2025-08-25T12:37:29.394Z] AUTO-LINK: entry 2114152827 -> catalog 2078875489 (barcode=2222)
+[2025-08-25T12:37:32.098Z] AUTO-LINK: entry 2114152894 -> catalog 2075507761 (barcode=1212)
+[2025-08-25T12:37:37.019Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-08-25T12:37:37.020Z] Webhook trigger: group=topics
+[2025-08-25T12:37:49.530Z] OK: 2222 +13 [199→212]
+[2025-08-25T12:37:59.151Z] OK: 1212 +15 [173→188]
+[2025-08-25T14:17:39.339Z] AUTO-LINK: entry 2114366219 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T06:03:03.843Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T06:08:51.789Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-09-01T06:08:51.791Z] Webhook trigger: group=topics
+[2025-09-01T06:08:54.134Z] SKIP: item 2114366219 barkod='1212' qty='0' source='name' qtyCol='numeric_mktbnk2w'
+[2025-09-01T06:09:45.229Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-09-01T06:09:45.231Z] Webhook trigger: group=topics
+[2025-09-01T06:09:54.774Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-09-01T06:09:54.774Z] Webhook trigger: group=topics
+[2025-09-01T06:09:57.304Z] OK: 1212 +14 [188→202]
+[2025-09-01T06:10:06.009Z] OK: 1212 +14 [202→216]
+[2025-09-01T07:18:51.974Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T07:20:46.388Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T07:21:04.000Z] AUTO-LINK: entry 2124290850 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T07:21:14.239Z] AUTO-LINK: entry 2124291054 -> catalog 2078875489 (barcode=2222)
+[2025-09-01T07:21:23.090Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-09-01T07:21:23.091Z] Webhook trigger: group=topics
+[2025-09-01T07:21:35.874Z] OK: 1212 +4 [216→220]
+[2025-09-01T07:21:45.982Z] OK: 2222 +50 [212→262]
+[2025-09-01T08:27:25.827Z] AUTO-LINK: entry 2124500586 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T08:27:39.037Z] AUTO-LINK: entry 2124501203 -> catalog 2078875489 (barcode=2222)
+[2025-09-01T08:27:46.420Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-09-01T08:27:46.421Z] Webhook trigger: group=topics
+[2025-09-01T08:27:59.109Z] OK: 1212 +15 [220→235]
+[2025-09-01T08:28:09.347Z] OK: 2222 +30 [262→292]
+[2025-09-01T11:01:36.196Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T11:15:04.975Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T11:15:58.147Z] ENTRY AUTO-LINK: 2125065606 -> 2075507761 (1212)
+[2025-09-01T11:16:15.995Z] ENTRY webhook trigger: group=topics
+[2025-09-01T11:16:16.931Z] ERR /webhook ReferenceError: createReportGroup is not defined
+[2025-09-01T11:17:16.173Z] ENTRY webhook trigger: group=topics
+[2025-09-01T11:17:17.608Z] ERR /webhook ReferenceError: createReportGroup is not defined
+[2025-09-01T11:18:16.179Z] ENTRY webhook trigger: group=topics
+[2025-09-01T11:18:17.204Z] ERR /webhook ReferenceError: createReportGroup is not defined
+[2025-09-01T11:19:15.887Z] ENTRY webhook trigger: group=topics
+[2025-09-01T11:19:17.341Z] ERR /webhook ReferenceError: createReportGroup is not defined
+[2025-09-01T11:20:15.988Z] ENTRY webhook trigger: group=topics
+[2025-09-01T11:20:17.116Z] ERR /webhook ReferenceError: createReportGroup is not defined
+[2025-09-01T11:20:19.198Z] ENTRY webhook trigger: group=topics
+[2025-09-01T11:20:20.409Z] ERR /webhook ReferenceError: createReportGroup is not defined
+[2025-09-01T11:22:19.184Z] ENTRY webhook trigger: group=topics
+[2025-09-01T11:22:20.103Z] ERR /webhook ReferenceError: createReportGroup is not defined
+[2025-09-01T11:24:18.984Z] ENTRY webhook trigger: group=topics
+[2025-09-01T11:24:19.820Z] ERR /webhook ReferenceError: createReportGroup is not defined
+[2025-09-01T11:25:05.607Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T11:25:21.554Z] ENTRY webhook trigger: group=topics
+[2025-09-01T11:25:25.465Z] ERR /webhook ReferenceError: updateStock is not defined
+[2025-09-01T11:26:18.280Z] ENTRY webhook trigger: group=topics
+[2025-09-01T11:26:19.441Z] ENTRY webhook trigger: group=topics
+[2025-09-01T11:26:21.263Z] ENTRY webhook trigger: group=topics
+[2025-09-01T11:26:21.495Z] ERR /webhook ReferenceError: updateStock is not defined
+[2025-09-01T11:26:23.000Z] ERR /webhook ReferenceError: updateStock is not defined
+[2025-09-01T11:26:24.556Z] ERR /webhook ReferenceError: updateStock is not defined
+[2025-09-01T11:26:31.957Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T11:26:42.156Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-09-01T11:26:42.157Z] Webhook trigger: group=topics
+[2025-09-01T11:26:54.325Z] OK: 1212 +13 [235→248]
+[2025-09-01T11:27:17.611Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-09-01T11:27:17.612Z] Webhook trigger: group=topics
+[2025-09-01T11:27:21.185Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-09-01T11:27:21.186Z] Webhook trigger: group=topics
+[2025-09-01T11:28:19.145Z] AUTO-LINK SKIP: barcode='tamamla' katalogda bulunamadı
+[2025-09-01T11:28:19.146Z] Webhook trigger: group=topics
+[2025-09-01T12:20:45.220Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T12:24:58.228Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T12:26:31.697Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T12:27:31.748Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T12:28:04.332Z] WEBHOOK: type=create_pulse board=2071456598 group=topics name='1212' user=53877622 item=2125261738
+[2025-09-01T12:28:08.335Z] AUTO-LINK: entry 2125261738 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T12:28:10.680Z] WEBHOOK: type=update_column_value board=2071456598 group=topics name='1212' user=53877622 item=2125261738
+[2025-09-01T12:28:57.181Z] WEBHOOK: type=create_pulse board=2071456598 group=topics name='2222' user=53877622 item=2125265161
+[2025-09-01T12:29:01.219Z] AUTO-LINK: entry 2125265161 -> catalog 2078875489 (barcode=2222)
+[2025-09-01T12:29:05.988Z] WEBHOOK: type=update_column_value board=2071456598 group=topics name='2222' user=53877622 item=2125265161
+[2025-09-01T12:29:56.016Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T12:30:01.403Z] WEBHOOK SKIP: boardId 2097720712 !== ENTRY_BOARD_ID 2071456598
+[2025-09-01T12:31:33.752Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T12:31:38.901Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125273307
+[2025-09-01T12:31:43.306Z] EXIT AUTO-LINK: 2125273307 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T12:31:57.306Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125274310
+[2025-09-01T12:31:59.763Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='2222' user=53877622 item=2125274442
+[2025-09-01T12:32:01.711Z] EXIT AUTO-LINK: 2125274310 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T12:32:04.794Z] EXIT AUTO-LINK: 2125274442 -> catalog 2078875489 (barcode=2222)
+[2025-09-01T12:32:41.327Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125276691
+[2025-09-01T12:32:43.990Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T12:32:43.992Z] EXIT webhook trigger: group=topics
+[2025-09-01T12:32:55.462Z] EXIT OK: 1212 -1 [248→247]
+[2025-09-01T12:33:03.651Z] EXIT OK: 2222 -2 [292→290]
+[2025-09-01T12:34:39.301Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125280943
+[2025-09-01T12:34:43.499Z] EXIT AUTO-LINK: 2125280943 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T12:40:08.005Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='2222' user=53877622 item=2125299822
+[2025-09-01T12:40:12.614Z] EXIT AUTO-LINK: 2125299822 -> catalog 2078875489 (barcode=2222)
+[2025-09-01T12:40:38.212Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125300854
+[2025-09-01T12:40:41.087Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T12:40:41.089Z] EXIT webhook trigger: group=topics
+[2025-09-01T12:40:51.014Z] EXIT OK: 1212 -13 [247→234]
+[2025-09-01T12:40:58.729Z] EXIT OK: 2222 -14 [290→276]
+[2025-09-01T12:42:17.018Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125308090
+[2025-09-01T12:42:22.072Z] EXIT AUTO-LINK: 2125308090 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T12:42:34.632Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125310426
+[2025-09-01T12:42:37.434Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T12:42:37.435Z] EXIT webhook trigger: group=topics
+[2025-09-01T12:42:47.126Z] EXIT OK: 1212 -5 [234→229]
+[2025-09-01T12:43:35.711Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T12:43:51.984Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125315757
+[2025-09-01T12:43:56.060Z] EXIT AUTO-LINK: 2125315757 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T12:44:11.915Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125316328
+[2025-09-01T12:44:14.416Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T12:44:14.417Z] EXIT webhook trigger: group=topics
+[2025-09-01T12:44:41.512Z] EXIT OK: 1212 -12 [229→217]
+[2025-09-01T12:50:35.112Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T12:50:43.612Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125340126
+[2025-09-01T12:50:48.017Z] EXIT AUTO-LINK: 2125340126 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T12:51:09.807Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125341148
+[2025-09-01T12:51:12.367Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T12:51:12.368Z] EXIT webhook trigger: group=topics
+[2025-09-01T12:51:17.590Z] EXIT REPORT WARN: target relation boş ya da çözülemedi (item 2125340126)
+[2025-09-01T12:51:22.810Z] EXIT OK: 1212 -12 [217→205]
+[2025-09-01T12:58:21.807Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T12:58:31.082Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125363846
+[2025-09-01T12:58:35.804Z] EXIT AUTO-LINK: 2125363846 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T12:58:49.703Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125364442
+[2025-09-01T12:58:52.658Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T12:58:52.659Z] EXIT webhook trigger: group=topics
+[2025-09-01T12:58:57.777Z] EXIT REPORT WARN: target relation yine bulunamadı (item 2125363846, text="")
+[2025-09-01T12:59:02.181Z] EXIT OK: 1212 -12 [205→193]
+[2025-09-01T13:01:12.839Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T13:01:17.992Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='2222' user=53877622 item=2125372229
+[2025-09-01T13:01:22.579Z] EXIT AUTO-LINK: 2125372229 -> catalog 2078875489 (barcode=2222)
+[2025-09-01T13:01:32.618Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125373253
+[2025-09-01T13:01:35.303Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T13:01:35.304Z] EXIT webhook trigger: group=topics
+[2025-09-01T13:01:40.603Z] EXIT REPORT WARN: target relation yine bulunamadı (item 2125372229, text="") ids=[]
+[2025-09-01T13:01:45.441Z] EXIT OK: 2222 -100 [276→176]
+[2025-09-01T13:06:49.226Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T13:06:53.463Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125391042
+[2025-09-01T13:06:57.878Z] EXIT AUTO-LINK: 2125391042 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T13:07:06.335Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125391684
+[2025-09-01T13:07:08.690Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T13:07:08.691Z] EXIT webhook trigger: group=topics
+[2025-09-01T13:07:13.718Z] DEBUG EXIT target cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T13:07:13.720Z] EXIT REPORT WARN: target relation yine bulunamadı (item 2125391042, text="") ids=[]
+[2025-09-01T13:07:18.520Z] EXIT OK: 1212 -12 [193→181]
+[2025-09-01T13:09:21.907Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125403953
+[2025-09-01T13:09:27.463Z] EXIT AUTO-LINK: 2125403953 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T13:14:26.548Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T13:14:34.876Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='2222' user=53877622 item=2125416776
+[2025-09-01T13:14:39.875Z] EXIT AUTO-LINK: 2125416776 -> catalog 2078875489 (barcode=2222)
+[2025-09-01T13:14:44.984Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125417183
+[2025-09-01T13:14:48.466Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T13:14:48.466Z] EXIT webhook trigger: group=topics
+[2025-09-01T13:14:50.617Z] EXIT SKIP: item 2125403953 barkod/qty eksik
+[2025-09-01T13:14:50.618Z] EXIT SKIP: item 2125416776 barkod/qty eksik
+[2025-09-01T13:15:20.212Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125418879
+[2025-09-01T13:15:23.080Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T13:15:23.081Z] EXIT webhook trigger: group=topics
+[2025-09-01T13:15:28.204Z] DEBUG EXIT target cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T13:15:28.205Z] EXIT REPORT WARN: target relation yine bulunamadı (item 2125403953, text="") ids=[]
+[2025-09-01T13:15:33.317Z] EXIT OK: 1212 -12 [181→169]
+[2025-09-01T13:15:36.187Z] DEBUG EXIT target cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T13:15:36.189Z] EXIT REPORT WARN: target relation yine bulunamadı (item 2125416776, text="") ids=[]
+[2025-09-01T13:15:40.690Z] EXIT OK: 2222 -12 [176→164]
+[2025-09-01T13:21:47.719Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T13:22:01.535Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125452761
+[2025-09-01T13:22:06.532Z] EXIT AUTO-LINK: 2125452761 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T13:22:28.446Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125453564
+[2025-09-01T13:22:30.929Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T13:22:30.930Z] EXIT webhook trigger: group=topics
+[2025-09-01T13:22:35.957Z] DEBUG EXIT target cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T13:22:35.958Z] DEBUG TARGET CV: id=board_relation_mkvc69x2 text="" valueType=object keys=n/a raw=object
+[2025-09-01T13:22:35.959Z] EXIT REPORT WARN: target relation yine bulunamadı (item 2125452761, text="") ids=[]
+[2025-09-01T13:22:40.860Z] EXIT OK: 1212 -12 [169→157]
+[2025-09-01T13:25:06.042Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T13:25:25.102Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125460133
+[2025-09-01T13:25:29.285Z] EXIT AUTO-LINK: 2125460133 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T13:26:00.722Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125460982
+[2025-09-01T13:26:03.203Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T13:26:03.204Z] EXIT webhook trigger: group=topics
+[2025-09-01T13:26:07.827Z] DEBUG EXIT target cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T13:26:07.828Z] DEBUG TARGET CV: id=board_relation_mkvc69x2 text="" valueType=object keys=n/a raw=object
+[2025-09-01T13:26:07.830Z] EXIT REPORT WARN: target relation yine bulunamadı (item 2125460133, text="") ids=[]
+[2025-09-01T13:26:12.735Z] EXIT OK: 1212 -12 [157→145]
+[2025-09-01T13:27:13.194Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T13:27:17.143Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125463945
+[2025-09-01T13:27:21.313Z] EXIT AUTO-LINK: 2125463945 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T13:27:32.780Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125464651
+[2025-09-01T13:27:35.662Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T13:27:35.663Z] EXIT webhook trigger: group=topics
+[2025-09-01T13:27:40.683Z] DEBUG EXIT target cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T13:27:40.684Z] DEBUG TARGET CV: id=board_relation_mkvc69x2 text="" valueType=object keys=n/a raw=object
+[2025-09-01T13:27:40.685Z] extractLinkedPulseIds: cv.value=n/a
+[2025-09-01T13:27:40.686Z] EXIT REPORT WARN: target relation yine bulunamadı (item 2125463945, text="") ids=[]
+[2025-09-01T13:27:45.067Z] EXIT OK: 1212 -32 [145→113]
+[2025-09-01T13:30:53.781Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T13:31:00.073Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125474361
+[2025-09-01T13:31:04.980Z] EXIT AUTO-LINK: 2125474361 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T13:31:20.108Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125475864
+[2025-09-01T13:31:22.770Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T13:31:22.771Z] EXIT webhook trigger: group=topics
+[2025-09-01T13:31:27.788Z] DEBUG EXIT target cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T13:31:27.789Z] DEBUG TARGET CV: id=board_relation_mkvc69x2 text="" valueType=object keys=n/a raw=object
+[2025-09-01T13:31:27.790Z] EXIT REPORT: processing target relation column id=board_relation_mkvc69x2 text=""
+[2025-09-01T13:31:27.791Z]   has 7 cvs
+[2025-09-01T13:31:27.792Z] extractLinkedPulseIds: cv.value=n/a
+[2025-09-01T13:31:27.793Z] EXIT REPORT WARN: target relation yine bulunamadı (item 2125474361, text="") ids=[]
+[2025-09-01T13:31:32.087Z] EXIT OK: 1212 -12 [113→101]
+[2025-09-01T13:33:07.115Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T14:00:22.814Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125579268
+[2025-09-01T14:00:28.076Z] EXIT AUTO-LINK: 2125579268 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T14:00:36.270Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125579736
+[2025-09-01T14:00:38.726Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T14:00:38.727Z] EXIT webhook trigger: group=topics
+[2025-09-01T14:00:44.665Z] DEBUG EXIT target cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T14:00:44.666Z] DEBUG TARGET CV: id=board_relation_mkvc69x2 text="" valueType=object keys=n/a raw=object
+[2025-09-01T14:00:44.667Z] EXIT REPORT: processing target relation column id=board_relation_mkvc69x2 text=""
+[2025-09-01T14:00:44.668Z]   has 7 cvs
+[2025-09-01T14:00:44.669Z] [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[2025-09-01T14:00:44.671Z] extractLinkedPulseIds: cv.value=n/a
+[2025-09-01T14:00:44.672Z] EXIT REPORT WARN: target relation yine bulunamadı (item 2125579268, text="") ids=[]
+[2025-09-01T14:00:49.602Z] EXIT OK: 1212 -1212 [101→0]
+[2025-09-01T14:02:18.118Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T14:02:20.844Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125583219
+[2025-09-01T14:02:25.374Z] EXIT AUTO-LINK: 2125583219 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T14:02:35.890Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125583825
+[2025-09-01T14:02:38.975Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T14:02:38.976Z] EXIT webhook trigger: group=topics
+[2025-09-01T14:02:43.759Z] DEBUG EXIT target cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T14:02:43.760Z] DEBUG TARGET CV: id=board_relation_mkvc69x2 text="" valueType=object keys=n/a raw=object
+[2025-09-01T14:02:43.762Z] EXIT REPORT: processing target relation column id=board_relation_mkvc69x2 text=""
+[2025-09-01T14:02:43.763Z]   has 7 cvs
+[2025-09-01T14:02:43.765Z]   cvs: board_relation_mkvc69x2,numeric_mkvcyex5,dropdown_mkvc9se7,text_mkvcabdq,board_relation_mkvc4bk2,lookup_mkvcknf,lookup_mkvcs6ka
+[2025-09-01T14:02:43.766Z] extractLinkedPulseIds: cv.value=n/a
+[2025-09-01T14:02:43.767Z] EXIT REPORT WARN: target relation yine bulunamadı (item 2125583219, text="") ids=[]
+[2025-09-01T14:02:48.381Z] EXIT OK: 1212 -12 [0→0]
+[2025-09-01T14:10:06.343Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T14:12:36.411Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T14:13:06.472Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125624467
+[2025-09-01T14:13:10.962Z] EXIT AUTO-LINK: 2125624467 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T14:13:10.967Z] ERR /webhook ReferenceError: Cannot access 'isNameChange' before initialization
+[2025-09-01T14:14:06.354Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125624467
+[2025-09-01T14:14:09.984Z] EXIT AUTO-LINK: 2125624467 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T14:14:09.986Z] ERR /webhook ReferenceError: Cannot access 'isNameChange' before initialization
+[2025-09-01T14:14:16.924Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T14:14:25.215Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125629825
+[2025-09-01T14:14:29.905Z] EXIT AUTO-LINK: 2125629825 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T14:14:56.940Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125634289
+[2025-09-01T14:14:59.398Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T14:15:01.346Z] EXIT REPORT: processing target relation column id=board_relation_mkvc69x2 titleGuess="Çıkış yeri" text="" hasValue=false
+[2025-09-01T14:15:01.347Z] extractLinkedPulseIds: cv.value=n/a
+[2025-09-01T14:15:01.348Z] extractLinkedPulseIds probe -> ids=[]
+[2025-09-01T14:15:01.349Z] EXIT webhook trigger: group=topics
+[2025-09-01T14:15:06.564Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125624467
+[2025-09-01T14:15:06.975Z] DEBUG EXIT target cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T14:15:06.976Z] DEBUG TARGET CV: id=board_relation_mkvc69x2 text="" valueType=object keys=n/a raw=object
+[2025-09-01T14:15:06.977Z] EXIT REPORT: processing target relation column id=board_relation_mkvc69x2 text=""
+[2025-09-01T14:15:06.978Z]   has 7 cvs
+[2025-09-01T14:15:06.979Z]   cvs: board_relation_mkvc69x2,numeric_mkvcyex5,dropdown_mkvc9se7,text_mkvcabdq,board_relation_mkvc4bk2,lookup_mkvcknf,lookup_mkvcs6ka
+[2025-09-01T14:15:06.979Z] extractLinkedPulseIds: cv.value=n/a
+[2025-09-01T14:15:06.980Z] EXIT REPORT WARN: target relation yine bulunamadı (item 2125629825, text="") ids=[]
+[2025-09-01T14:15:10.491Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2097720712,"inactive_pulse_ids":[2125624467]},"service":"monolith"}}]
+[2025-09-01T14:15:12.401Z] EXIT OK: 1212 -1 [0→0]
+[2025-09-01T14:16:06.367Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125624467
+[2025-09-01T14:16:10.156Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2097720712,"inactive_pulse_ids":[2125624467]},"service":"monolith"}}]
+[2025-09-01T14:17:06.376Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125624467
+[2025-09-01T14:17:10.991Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2097720712,"inactive_pulse_ids":[2125624467]},"service":"monolith"}}]
+[2025-09-01T14:17:11.490Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125624467
+[2025-09-01T14:17:14.562Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2097720712,"inactive_pulse_ids":[2125624467]},"service":"monolith"}}]
+[2025-09-01T14:18:51.084Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T14:19:01.394Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125649174
+[2025-09-01T14:19:06.182Z] EXIT AUTO-LINK: 2125649174 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T14:19:11.301Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125624467
+[2025-09-01T14:19:14.273Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125650881
+[2025-09-01T14:19:14.580Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2097720712,"inactive_pulse_ids":[2125624467]},"service":"monolith"}}]
+[2025-09-01T14:19:17.368Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T14:19:19.595Z] EXIT REPORT: processing target relation column id=board_relation_mkvc69x2 titleGuess="Çıkış yeri" text="" hasValue=false
+[2025-09-01T14:19:19.596Z] extractLinkedPulseIds: cv.value=n/a
+[2025-09-01T14:19:19.597Z] extractLinkedPulseIds probe -> ids=[]
+[2025-09-01T14:19:19.598Z] EXIT webhook trigger: group=topics
+[2025-09-01T14:19:24.103Z] DEBUG EXIT target cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T14:19:24.104Z] DEBUG TARGET CV: id=board_relation_mkvc69x2 text="" valueType=object keys=n/a raw=object
+[2025-09-01T14:19:24.105Z] EXIT REPORT: processing target relation column id=board_relation_mkvc69x2 text=""
+[2025-09-01T14:19:24.106Z]   has 7 cvs
+[2025-09-01T14:19:24.107Z]   cvs: board_relation_mkvc69x2,numeric_mkvcyex5,dropdown_mkvc9se7,text_mkvcabdq,board_relation_mkvc4bk2,lookup_mkvcknf,lookup_mkvcs6ka
+[2025-09-01T14:19:24.108Z] extractLinkedPulseIds: cv.value=n/a
+[2025-09-01T14:19:24.110Z] EXIT REPORT WARN: target relation yine bulunamadı (item 2125649174, text="") ids=[]
+[2025-09-01T14:19:29.024Z] EXIT OK: 1212 -12 [0→0]
+[2025-09-01T14:21:11.323Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125624467
+[2025-09-01T14:21:15.412Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2097720712,"inactive_pulse_ids":[2125624467]},"service":"monolith"}}]
+[2025-09-01T14:23:11.223Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125624467
+[2025-09-01T14:23:15.013Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2097720712,"inactive_pulse_ids":[2125624467]},"service":"monolith"}}]
+[2025-09-01T14:25:11.235Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125624467
+[2025-09-01T14:25:14.937Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2097720712,"inactive_pulse_ids":[2125624467]},"service":"monolith"}}]
+[2025-09-01T14:27:11.250Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125624467
+[2025-09-01T14:27:14.631Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2097720712,"inactive_pulse_ids":[2125624467]},"service":"monolith"}}]
+[2025-09-01T14:29:11.250Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125624467
+[2025-09-01T14:29:14.943Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2097720712,"inactive_pulse_ids":[2125624467]},"service":"monolith"}}]
+[2025-09-01T14:31:11.264Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125624467
+[2025-09-01T14:31:14.747Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2097720712,"inactive_pulse_ids":[2125624467]},"service":"monolith"}}]
+[2025-09-01T14:33:11.284Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125624467
+[2025-09-01T14:33:14.566Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2097720712,"inactive_pulse_ids":[2125624467]},"service":"monolith"}}]
+[2025-09-01T14:35:11.293Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125624467
+[2025-09-01T14:35:15.595Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2097720712,"inactive_pulse_ids":[2125624467]},"service":"monolith"}}]
+[2025-09-01T14:37:11.199Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125624467
+[2025-09-01T14:37:14.484Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2097720712,"inactive_pulse_ids":[2125624467]},"service":"monolith"}}]
+[2025-09-01T14:39:11.419Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125624467
+[2025-09-01T14:39:15.046Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2097720712,"inactive_pulse_ids":[2125624467]},"service":"monolith"}}]
+[2025-09-01T14:41:01.263Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T14:41:06.042Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125729017
+[2025-09-01T14:41:10.833Z] EXIT AUTO-LINK: 2125729017 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T14:41:11.239Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125624467
+[2025-09-01T14:41:14.752Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2097720712,"inactive_pulse_ids":[2125624467]},"service":"monolith"}}]
+[2025-09-01T14:41:20.966Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125729635
+[2025-09-01T14:41:23.322Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T14:41:25.267Z] EXIT REPORT: processing target relation column id=board_relation_mkvc69x2 titleGuess="Çıkış yeri" text="" hasValue=false
+[2025-09-01T14:41:25.268Z] extractLinkedPulseIds: cv.value=n/a
+[2025-09-01T14:41:25.269Z] extractLinkedPulseIds probe -> ids=[]
+[2025-09-01T14:41:25.270Z] EXIT webhook trigger: group=topics
+[2025-09-01T14:41:30.305Z] DEBUG EXIT target cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T14:41:30.306Z] DEBUG TARGET CV: id=board_relation_mkvc69x2 text="" valueType=object keys=n/a raw=object
+[2025-09-01T14:41:30.307Z] extractLinkedPulseIds: cv.value=n/a
+[2025-09-01T14:41:30.308Z] EXIT REPORT: no candidate names for target (relation empty, lookup empty)
+[2025-09-01T14:41:30.309Z] EXIT REPORT WARN: target relation yine bulunamadı (item 2125729017, relationId=board_relation_mkvc69x2)
+[2025-09-01T14:41:34.789Z] EXIT OK: 1212 -12 [0→0]
+[2025-09-01T14:43:11.249Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125624467
+[2025-09-01T14:43:14.835Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2097720712,"inactive_pulse_ids":[2125624467]},"service":"monolith"}}]
+[2025-09-01T14:43:34.971Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T14:43:46.091Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='12' user=53877622 item=2125737149
+[2025-09-01T14:43:53.232Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125737647
+[2025-09-01T14:43:57.657Z] EXIT AUTO-LINK: 2125737647 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T14:44:06.542Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125738544
+[2025-09-01T14:44:09.206Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T14:44:10.945Z] EXIT REPORT: processing target relation column id=board_relation_mkvcmh47 titleGuess="Çıkış yeri" text="" hasValue=false
+[2025-09-01T14:44:10.947Z] extractLinkedPulseIds: cv.value=n/a
+[2025-09-01T14:44:10.947Z] extractLinkedPulseIds probe -> ids=[]
+[2025-09-01T14:44:10.949Z] EXIT webhook trigger: group=topics
+[2025-09-01T14:44:15.079Z] EXIT SKIP: item 2125737647 hedef (Çıkış yeri) boş
+[2025-09-01T14:45:11.264Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125624467
+[2025-09-01T14:45:15.052Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2097720712,"inactive_pulse_ids":[2125624467]},"service":"monolith"}}]
+[2025-09-01T14:45:47.388Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T14:45:55.726Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125745993
+[2025-09-01T14:45:58.469Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T14:46:00.641Z] EXIT REPORT: processing target relation column id=board_relation_mkvc69x2 titleGuess="Çıkış yeri" text="" hasValue=false
+[2025-09-01T14:46:00.645Z] extractLinkedPulseIds: cv.value=n/a
+[2025-09-01T14:46:00.655Z] extractLinkedPulseIds probe -> ids=[]
+[2025-09-01T14:46:00.656Z] EXIT webhook trigger: group=topics
+[2025-09-01T14:46:05.560Z] DEBUG EXIT target cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T14:46:05.561Z] extractLinkedPulseIds: cv.value=n/a
+[2025-09-01T14:46:05.563Z] EXIT REPORT: no candidate names for target (relation empty, lookup empty)
+[2025-09-01T14:46:05.564Z] EXIT REPORT WARN: target relation yine bulunamadı (item 2125737647, relationId=board_relation_mkvc69x2)
+[2025-09-01T14:46:10.473Z] EXIT OK: 1212 -12 [0→0]
+[2025-09-01T14:49:42.311Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125763788
+[2025-09-01T14:49:46.311Z] EXIT AUTO-LINK: 2125763788 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T14:50:05.350Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125766185
+[2025-09-01T14:50:07.808Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T14:50:09.551Z] EXIT REPORT: processing target relation column id=board_relation_mkvc69x2 titleGuess="Çıkış yeri" text="" hasValue=false
+[2025-09-01T14:50:09.552Z] extractLinkedPulseIds: cv.value=n/a
+[2025-09-01T14:50:09.553Z] extractLinkedPulseIds probe -> ids=[]
+[2025-09-01T14:50:09.554Z] EXIT webhook trigger: group=topics
+[2025-09-01T14:50:14.055Z] DEBUG EXIT target cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T14:50:14.056Z] extractLinkedPulseIds: cv.value=n/a
+[2025-09-01T14:50:14.057Z] EXIT REPORT: no candidate names for target (relation empty, lookup empty)
+[2025-09-01T14:50:14.058Z] EXIT REPORT WARN: target relation yine bulunamadı (item 2125763788, relationId=board_relation_mkvc69x2)
+[2025-09-01T14:50:18.798Z] EXIT OK: 1212 -1 [0→0]
+[2025-09-01T14:55:22.014Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T14:55:27.535Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125788262
+[2025-09-01T14:55:32.423Z] EXIT AUTO-LINK: 2125788262 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T14:55:50.958Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125789122
+[2025-09-01T14:55:53.525Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T14:55:55.157Z] EXIT REPORT: processing target relation column id=board_relation_mkvc69x2 titleGuess="Çıkış yeri" text="" hasValue=false
+[2025-09-01T14:55:55.158Z] extractLinkedPulseIds: cv.value=n/a
+[2025-09-01T14:55:55.159Z] extractLinkedPulseIds probe -> ids=[]
+[2025-09-01T14:55:55.160Z] EXIT webhook trigger: group=topics
+[2025-09-01T14:56:00.084Z] DEBUG EXIT target cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T14:56:00.085Z] extractLinkedPulseIds: cv.value=n/a
+[2025-09-01T14:56:00.086Z] EXIT REPORT: no candidate names for target (relation empty, lookup empty)
+[2025-09-01T14:56:00.087Z] EXIT REPORT WARN: target relation yine bulunamadı (item 2125788262, relationId=board_relation_mkvc69x2)
+[2025-09-01T14:56:04.269Z] EXIT OK: 1212 -1 [0→0]
+[2025-09-01T15:02:21.173Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T15:02:27.474Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125807580
+[2025-09-01T15:02:31.650Z] EXIT AUTO-LINK: 2125807580 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T15:02:40.661Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125808544
+[2025-09-01T15:02:43.220Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T15:02:44.787Z] EXIT REPORT: processing target relation column id=board_relation_mkvc69x2 titleGuess="Çıkış yeri" text="" hasValue=false
+[2025-09-01T15:02:44.789Z] extractLinkedPulseIds: cv.value=n/a
+[2025-09-01T15:02:44.790Z] extractLinkedPulseIds probe -> ids=[]
+[2025-09-01T15:02:44.790Z] EXIT webhook trigger: group=topics
+[2025-09-01T15:02:49.263Z] DEBUG EXIT target cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T15:02:49.264Z] EXIT REPORT: source target relation cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T15:02:49.265Z] extractLinkedPulseIds: cv.value=n/a
+[2025-09-01T15:02:49.266Z] EXIT REPORT: no candidate names for target (relation empty, lookup empty)
+[2025-09-01T15:02:49.267Z] EXIT REPORT WARN: target relation yine bulunamadı (item 2125807580, relationId=board_relation_mkvc69x2)
+[2025-09-01T15:02:53.971Z] EXIT OK: 1212 -12 [0→0]
+[2025-09-01T15:08:08.101Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T15:08:11.039Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125820131
+[2025-09-01T15:08:13.765Z] safeText: cv.value="11122211"
+[2025-09-01T15:08:13.776Z] safeText: cv.value="1212"
+[2025-09-01T15:08:15.301Z] EXIT AUTO-LINK: 2125820131 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T15:08:48.610Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125821369
+[2025-09-01T15:08:50.832Z] safeText: cv.value="11122211"
+[2025-09-01T15:08:50.833Z] safeText: cv.value="1212"
+[2025-09-01T15:08:50.834Z] safeText: cv.value="2222"
+[2025-09-01T15:08:50.835Z] safeText: cv.value="556677"
+[2025-09-01T15:08:50.836Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T15:08:52.676Z] safeText: cv.value=n/a
+[2025-09-01T15:08:52.677Z] EXIT REPORT: processing target relation column id=board_relation_mkvc69x2 titleGuess="Çıkış yeri" text="" hasValue=false
+[2025-09-01T15:08:52.678Z] extractLinkedPulseIds: cv.value=n/a
+[2025-09-01T15:08:52.679Z] extractLinkedPulseIds probe -> ids=[]
+[2025-09-01T15:08:52.680Z] EXIT webhook trigger: group=topics
+[2025-09-01T15:08:54.970Z] safeText: cv.value={"changed_at":"2025-09-01T15:08:12.600Z","linkedPulseIds":[{"linkedPulseId":2124561138}]}
+[2025-09-01T15:08:55.852Z] safeText: cv.value="11122211"
+[2025-09-01T15:08:55.853Z] safeText: cv.value="1212"
+[2025-09-01T15:08:57.590Z] safeText: cv.value=n/a
+[2025-09-01T15:08:57.591Z] DEBUG EXIT target cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T15:08:57.592Z] safeText: cv.value=n/a
+[2025-09-01T15:08:57.593Z] EXIT REPORT: source target relation cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T15:08:57.594Z] extractLinkedPulseIds: cv.value=n/a
+[2025-09-01T15:08:57.596Z] safeText: cv.value=n/a
+[2025-09-01T15:08:57.597Z] safeText: cv.value=n/a
+[2025-09-01T15:08:57.598Z] safeText: cv.value=n/a
+[2025-09-01T15:08:57.599Z] EXIT REPORT: no candidate names for target (relation empty, lookup empty)
+[2025-09-01T15:08:57.601Z] EXIT REPORT WARN: target relation yine bulunamadı (item 2125820131, relationId=board_relation_mkvc69x2)
+[2025-09-01T15:09:02.198Z] EXIT OK: 1212 -12 [0→0]
+[2025-09-01T15:18:39.344Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T15:18:46.578Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125866105
+[2025-09-01T15:18:49.333Z] safeText: cv.value="11122211"
+[2025-09-01T15:18:49.334Z] safeText: cv.value="1212"
+[2025-09-01T15:18:51.044Z] EXIT AUTO-LINK: 2125866105 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T15:19:07.217Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125866731
+[2025-09-01T15:19:09.703Z] safeText: cv.value="11122211"
+[2025-09-01T15:19:09.704Z] safeText: cv.value="1212"
+[2025-09-01T15:19:09.705Z] safeText: cv.value="2222"
+[2025-09-01T15:19:09.706Z] safeText: cv.value="556677"
+[2025-09-01T15:19:09.707Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T15:19:11.520Z] safeText: cv.value=n/a
+[2025-09-01T15:19:11.521Z] EXIT REPORT: processing target relation column id=board_relation_mkvc69x2 titleGuess="Çıkış yeri" text="" hasValue=false
+[2025-09-01T15:19:11.523Z] extractLinkedPulseIds probe -> ids=[]
+[2025-09-01T15:19:11.523Z] EXIT webhook trigger: group=topics
+[2025-09-01T15:19:13.593Z] safeText: cv.value={"changed_at":"2025-09-01T15:18:54.891Z","linkedPulseIds":[{"linkedPulseId":2124561132}]}
+[2025-09-01T15:19:14.619Z] safeText: cv.value="11122211"
+[2025-09-01T15:19:14.620Z] safeText: cv.value="1212"
+[2025-09-01T15:19:16.025Z] safeText: cv.value=n/a
+[2025-09-01T15:19:16.026Z] DEBUG EXIT target cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T15:19:16.027Z] EXIT REPORT: target relation empty on source, skipping (item 2125866105)
+[2025-09-01T15:19:20.370Z] EXIT OK: 1212 -12 [0→0]
+[2025-09-01T15:22:54.496Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T15:23:00.454Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125873762
+[2025-09-01T15:23:03.312Z] safeText: cv.value="11122211"
+[2025-09-01T15:23:03.313Z] safeText: cv.value="1212"
+[2025-09-01T15:23:04.724Z] EXIT AUTO-LINK: 2125873762 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T15:23:11.995Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125874027
+[2025-09-01T15:23:14.248Z] safeText: cv.value="11122211"
+[2025-09-01T15:23:14.249Z] safeText: cv.value="1212"
+[2025-09-01T15:23:14.250Z] safeText: cv.value="2222"
+[2025-09-01T15:23:14.251Z] safeText: cv.value="556677"
+[2025-09-01T15:23:14.252Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T15:23:15.917Z] safeText: cv.value=n/a
+[2025-09-01T15:23:15.918Z] EXIT REPORT: processing target relation column id=board_relation_mkvc69x2 titleGuess="Çıkış yeri" text="" hasValue=false
+[2025-09-01T15:23:15.920Z] extractLinkedPulseIds probe -> ids=[]
+[2025-09-01T15:23:15.921Z] EXIT webhook trigger: group=topics
+[2025-09-01T15:23:17.843Z] safeText: cv.value={"changed_at":"2025-09-01T15:23:03.555Z","linkedPulseIds":[{"linkedPulseId":2124602404}]}
+[2025-09-01T15:23:18.651Z] safeText: cv.value="11122211"
+[2025-09-01T15:23:18.652Z] safeText: cv.value="1212"
+[2025-09-01T15:23:20.084Z] safeText: cv.value=n/a
+[2025-09-01T15:23:20.085Z] DEBUG EXIT target cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T15:23:20.087Z] DEBUG EXIT target cv extracted IDs: [] from item 2125873762
+[2025-09-01T15:23:20.088Z] EXIT REPORT: target relation empty on source, skipping (item 2125873762)
+[2025-09-01T15:23:24.692Z] EXIT OK: 1212 -12 [0→0]
+[2025-09-01T15:24:38.886Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T15:24:42.659Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125876830
+[2025-09-01T15:24:44.782Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='2222' user=53877622 item=2125876865
+[2025-09-01T15:24:45.100Z] safeText: cv.value="11122211"
+[2025-09-01T15:24:45.101Z] safeText: cv.value="1212"
+[2025-09-01T15:24:46.625Z] EXIT AUTO-LINK: 2125876830 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T15:24:47.875Z] safeText: cv.value="11122211"
+[2025-09-01T15:24:47.877Z] safeText: cv.value="1212"
+[2025-09-01T15:24:47.879Z] safeText: cv.value="2222"
+[2025-09-01T15:24:49.506Z] EXIT AUTO-LINK: 2125876865 -> catalog 2078875489 (barcode=2222)
+[2025-09-01T15:25:02.908Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125877209
+[2025-09-01T15:25:05.362Z] safeText: cv.value="11122211"
+[2025-09-01T15:25:05.363Z] safeText: cv.value="1212"
+[2025-09-01T15:25:05.364Z] safeText: cv.value="2222"
+[2025-09-01T15:25:05.365Z] safeText: cv.value="556677"
+[2025-09-01T15:25:05.366Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T15:25:07.615Z] safeText: cv.value=n/a
+[2025-09-01T15:25:07.616Z] EXIT REPORT: processing target relation column id=board_relation_mkvc69x2 titleGuess="Çıkış yeri" text="" hasValue=false
+[2025-09-01T15:25:07.617Z] extractLinkedPulseIds probe -> ids=[]
+[2025-09-01T15:25:07.618Z] EXIT webhook trigger: group=topics
+[2025-09-01T15:25:09.664Z] safeText: cv.value={"changed_at":"2025-09-01T15:24:46.718Z","linkedPulseIds":[{"linkedPulseId":2124561138}]}
+[2025-09-01T15:25:10.584Z] safeText: cv.value="11122211"
+[2025-09-01T15:25:10.585Z] safeText: cv.value="1212"
+[2025-09-01T15:25:12.326Z] safeText: cv.value=n/a
+[2025-09-01T15:25:12.327Z] DEBUG EXIT target cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T15:25:12.335Z] ERR /webhook TypeError: exitItemFull.column_values is not a function
+[2025-09-01T15:25:39.472Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T15:25:46.762Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125878342
+[2025-09-01T15:25:49.605Z] safeText: cv.value="11122211"
+[2025-09-01T15:25:49.607Z] safeText: cv.value="1212"
+[2025-09-01T15:25:49.608Z] safeText: cv.value="2222"
+[2025-09-01T15:25:49.609Z] safeText: cv.value="556677"
+[2025-09-01T15:25:49.609Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T15:25:51.346Z] safeText: cv.value=n/a
+[2025-09-01T15:25:51.347Z] EXIT REPORT: processing target relation column id=board_relation_mkvc69x2 titleGuess="Çıkış yeri" text="" hasValue=false
+[2025-09-01T15:25:51.348Z] extractLinkedPulseIds probe -> ids=[]
+[2025-09-01T15:25:51.349Z] EXIT webhook trigger: group=topics
+[2025-09-01T15:25:53.601Z] safeText: cv.value={"changed_at":"2025-09-01T15:24:46.718Z","linkedPulseIds":[{"linkedPulseId":2124561138}]}
+[2025-09-01T15:25:54.519Z] safeText: cv.value="11122211"
+[2025-09-01T15:25:54.520Z] safeText: cv.value="1212"
+[2025-09-01T15:25:55.954Z] safeText: cv.value=n/a
+[2025-09-01T15:25:55.955Z] DEBUG EXIT target cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T15:25:55.956Z] EXIT REPORT: exit item 2125876830 has 7 column values
+[2025-09-01T15:25:55.957Z] EXIT REPORT: target relation empty on source, skipping (item 2125876830)
+[2025-09-01T15:26:00.868Z] EXIT OK: 1212 -1 [0→0]
+[2025-09-01T15:26:00.869Z] safeText: cv.value={"changed_at":"2025-09-01T15:24:49.424Z","linkedPulseIds":[{"linkedPulseId":2124561132}]}
+[2025-09-01T15:26:01.892Z] safeText: cv.value="11122211"
+[2025-09-01T15:26:01.893Z] safeText: cv.value="1212"
+[2025-09-01T15:26:01.894Z] safeText: cv.value="2222"
+[2025-09-01T15:26:02.917Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125877209
+[2025-09-01T15:26:03.735Z] safeText: cv.value=n/a
+[2025-09-01T15:26:03.736Z] DEBUG EXIT target cv: id=board_relation_mkvc69x2 text="" valueRaw=no
+[2025-09-01T15:26:03.736Z] EXIT REPORT: exit item 2125876865 has 7 column values
+[2025-09-01T15:26:03.737Z] EXIT REPORT: target relation empty on source, skipping (item 2125876865)
+[2025-09-01T15:26:05.582Z] safeText: cv.value="11122211"
+[2025-09-01T15:26:05.583Z] safeText: cv.value="1212"
+[2025-09-01T15:26:05.584Z] safeText: cv.value="2222"
+[2025-09-01T15:26:05.584Z] safeText: cv.value="556677"
+[2025-09-01T15:26:05.585Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T15:26:07.446Z] safeText: cv.value=n/a
+[2025-09-01T15:26:07.447Z] EXIT REPORT: processing target relation column id=board_relation_mkvc69x2 titleGuess="Çıkış yeri" text="" hasValue=false
+[2025-09-01T15:26:07.448Z] extractLinkedPulseIds probe -> ids=[]
+[2025-09-01T15:26:07.449Z] EXIT webhook trigger: group=topics
+[2025-09-01T15:26:07.970Z] EXIT OK: 2222 -1 [164→163]
+[2025-09-01T15:27:47.870Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T15:28:11.483Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T15:28:41.496Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T15:28:46.393Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125882192
+[2025-09-01T15:28:50.704Z] EXIT AUTO-LINK: 2125882192 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T15:29:22.825Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125882867
+[2025-09-01T15:29:25.182Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T15:29:25.183Z] EXIT webhook trigger: group=topics
+[2025-09-01T15:29:29.481Z] EXIT REPORT WARN: target relation boş ya da çözülemedi (item 2125882192)
+[2025-09-01T15:29:34.114Z] EXIT OK: 1212 -1 [0→0]
+[2025-09-01T16:36:30.188Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T16:36:36.823Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125974452
+[2025-09-01T16:36:39.864Z] safeText: cv.value="11122211"
+[2025-09-01T16:36:39.865Z] safeText: cv.value="1212"
+[2025-09-01T16:36:41.506Z] EXIT AUTO-LINK: 2125974452 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T16:36:49.796Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125974722
+[2025-09-01T16:36:52.150Z] safeText: cv.value="11122211"
+[2025-09-01T16:36:52.151Z] safeText: cv.value="1212"
+[2025-09-01T16:36:52.152Z] safeText: cv.value="2222"
+[2025-09-01T16:36:52.154Z] safeText: cv.value="556677"
+[2025-09-01T16:36:52.155Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T16:36:53.687Z] safeText: cv.value=n/a
+[2025-09-01T16:36:53.688Z] EXIT REPORT: processing target relation column id=board_relation_mkvc69x2 titleGuess="Çıkış yeri" text="" hasValue=false
+[2025-09-01T16:36:53.689Z] extractLinkedPulseIds probe -> ids=[]
+[2025-09-01T16:36:53.690Z] EXIT webhook trigger: group=topics
+[2025-09-01T16:36:56.271Z] safeText: cv.value={"changed_at":"2025-09-01T16:36:39.658Z","linkedPulseIds":[{"linkedPulseId":2124561132}]}
+[2025-09-01T16:36:57.206Z] safeText: cv.value="11122211"
+[2025-09-01T16:36:57.207Z] safeText: cv.value="1212"
+[2025-09-01T16:37:04.848Z] EXIT OK: 1212 -12 [0→0]
+[2025-09-01T16:38:07.624Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='1212' user=53877622 item=2125975399
+[2025-09-01T16:38:09.983Z] safeText: cv.value="11122211"
+[2025-09-01T16:38:09.984Z] safeText: cv.value="1212"
+[2025-09-01T16:38:11.413Z] EXIT AUTO-LINK: 2125975399 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T16:38:22.780Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='tamamla' user=53877622 item=2125975596
+[2025-09-01T16:38:25.041Z] safeText: cv.value="11122211"
+[2025-09-01T16:38:25.043Z] safeText: cv.value="1212"
+[2025-09-01T16:38:25.043Z] safeText: cv.value="2222"
+[2025-09-01T16:38:25.044Z] safeText: cv.value="556677"
+[2025-09-01T16:38:25.045Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T16:38:26.773Z] safeText: cv.value=n/a
+[2025-09-01T16:38:26.774Z] EXIT REPORT: processing target relation column id=board_relation_mkvc69x2 titleGuess="Çıkış yeri" text="" hasValue=false
+[2025-09-01T16:38:26.775Z] extractLinkedPulseIds probe -> ids=[]
+[2025-09-01T16:38:26.776Z] EXIT webhook trigger: group=topics
+[2025-09-01T16:38:28.719Z] safeText: cv.value={"changed_at":"2025-09-01T16:38:10.093Z","linkedPulseIds":[{"linkedPulseId":2124561132}]}
+[2025-09-01T16:38:29.572Z] safeText: cv.value="11122211"
+[2025-09-01T16:38:29.573Z] safeText: cv.value="1212"
+[2025-09-01T16:38:37.161Z] EXIT OK: 1212 -12 [0→0]
+[2025-09-01T16:39:28.011Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='asd' user=53877622 item=2125979435
+[2025-09-01T16:39:30.803Z] safeText: cv.value="11122211"
+[2025-09-01T16:39:30.804Z] safeText: cv.value="1212"
+[2025-09-01T16:39:30.807Z] safeText: cv.value="2222"
+[2025-09-01T16:39:30.808Z] safeText: cv.value="556677"
+[2025-09-01T16:39:30.809Z] EXIT AUTO-LINK SKIP: barcode='asd' katalogda yok
+[2025-09-01T16:56:53.706Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T16:57:12.921Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='12' user=53877622 item=2125996347
+[2025-09-01T16:58:53.900Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T16:58:55.852Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='12' user=53877622 item=2125997107
+[2025-09-01T17:00:30.855Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T17:00:36.715Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='12' user=53877622 item=2125998017
+[2025-09-01T17:00:37.747Z] ERR /webhook ReferenceError: itemId is not defined
+[2025-09-01T17:01:36.478Z] WEBHOOK: type=create_pulse board=2097720712 group=topics name='12' user=53877622 item=2125998017
+[2025-09-01T17:01:37.200Z] ERR /webhook ReferenceError: itemId is not defined
+[2025-09-01T17:02:18.802Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T17:02:25.624Z] safeText: cv.value="11122211"
+[2025-09-01T17:02:25.625Z] safeText: cv.value="1212"
+[2025-09-01T17:02:27.811Z] EXIT AUTO-LINK: 2125999252 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T17:02:53.170Z] safeText: cv.value="11122211"
+[2025-09-01T17:02:53.171Z] safeText: cv.value="1212"
+[2025-09-01T17:02:53.172Z] safeText: cv.value="2222"
+[2025-09-01T17:02:53.173Z] safeText: cv.value="556677"
+[2025-09-01T17:02:53.174Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T17:02:53.175Z] EXIT webhook trigger: group=topics
+[2025-09-01T17:02:55.550Z] safeText: cv.value={"changed_at":"2025-09-01T17:02:33.481Z","linkedPulseIds":[{"linkedPulseId":2124561132}]}
+[2025-09-01T17:02:56.470Z] safeText: cv.value="11122211"
+[2025-09-01T17:02:56.471Z] safeText: cv.value="1212"
+[2025-09-01T17:03:04.128Z] EXIT OK: 1212 -12 [0→0]
+[2025-09-01T17:08:50.174Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T17:09:04.179Z] safeText: cv.value="11122211"
+[2025-09-01T17:09:04.180Z] safeText: cv.value="1212"
+[2025-09-01T17:09:05.720Z] EXIT AUTO-LINK: 2126003117 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T17:09:20.560Z] safeText: cv.value="11122211"
+[2025-09-01T17:09:20.561Z] safeText: cv.value="1212"
+[2025-09-01T17:09:20.562Z] safeText: cv.value="2222"
+[2025-09-01T17:09:20.563Z] safeText: cv.value="556677"
+[2025-09-01T17:09:20.564Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T17:09:20.565Z] EXIT webhook trigger: group=topics
+[2025-09-01T17:09:22.608Z] safeText: cv.value={"changed_at":"2025-09-01T17:09:09.087Z","linkedPulseIds":[{"linkedPulseId":2124561132}]}
+[2025-09-01T17:09:23.428Z] safeText: cv.value="11122211"
+[2025-09-01T17:09:23.429Z] safeText: cv.value="1212"
+[2025-09-01T17:09:24.804Z] safeText: cv.value=n/a
+[2025-09-01T17:09:24.805Z] safeText: cv.value=n/a
+[2025-09-01T17:09:24.806Z] EXIT REPORT WARNING: target relation could not be resolved (text='')
+[2025-09-01T17:09:31.107Z] EXIT OK: 1212 -12 [0→0]
+[2025-09-01T17:51:46.463Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T17:52:03.876Z] EXIT AUTO-LINK: 2126027224 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T17:52:23.523Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T17:52:23.525Z] EXIT webhook trigger: group=topics
+[2025-09-01T17:52:29.887Z] EXIT REPORT WARN: target relation çözülemedi (item 2126027224)
+[2025-09-01T17:52:35.093Z] EXIT OK: 1212 -12 [0→0]
+[2025-09-01T17:53:03.561Z] ENTRY AUTO-LINK: 2126027558 -> 2075507761 (1212)
+[2025-09-01T17:53:19.041Z] ENTRY webhook trigger: group=topics
+[2025-09-01T17:53:30.430Z] OK: 1212 +134 [0→134]
+[2025-09-01T17:57:26.150Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T17:57:37.283Z] EXIT AUTO-LINK: 2126029961 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T17:58:11.276Z] EXIT AUTO-LINK: 2126030185 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T17:58:27.785Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T17:58:33.903Z] EXIT AUTO-LINK: 2126030348 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T17:59:15.124Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T17:59:25.625Z] EXIT AUTO-LINK: 2126030653 -> catalog 2078875489 (barcode=2222)
+[2025-09-01T17:59:49.555Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T18:00:26.284Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:00:26.285Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:00:38.450Z] EXIT SKIP: item 2126030653 barkod/qty eksik
+[2025-09-01T18:01:15.827Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:01:15.828Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:01:25.121Z] EXIT OK: 2222 -12 [163→151]
+[2025-09-01T18:04:42.453Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T18:04:51.233Z] EXIT AUTO-LINK: 2126033217 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T18:05:06.613Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:05:06.614Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:05:16.035Z] EXIT OK: 1212 -12 [134→122]
+[2025-09-01T18:16:29.400Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T18:16:44.573Z] EXIT AUTO-LINK: 2126038418 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T18:16:55.255Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:16:55.256Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:17:00.358Z] ERR /webhook ReferenceError: copyExitToReportBoardSameAsEntry is not defined
+[2025-09-01T18:17:42.049Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T18:17:52.280Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:17:52.281Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:17:55.362Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:17:55.363Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:17:57.996Z] ERR /webhook ReferenceError: targetItemId is not defined
+[2025-09-01T18:18:01.681Z] ERR /webhook ReferenceError: targetItemId is not defined
+[2025-09-01T18:18:52.383Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:18:52.385Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:18:55.380Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:18:55.381Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:18:58.309Z] ERR /webhook ReferenceError: targetItemId is not defined
+[2025-09-01T18:19:01.176Z] ERR /webhook ReferenceError: targetItemId is not defined
+[2025-09-01T18:20:22.080Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T18:20:24.458Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:20:24.460Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:20:27.502Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:20:27.504Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:20:28.051Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:20:28.052Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:20:30.470Z] ERR /webhook ReferenceError: targetItemId is not defined
+[2025-09-01T18:20:33.542Z] ERR /webhook ReferenceError: targetItemId is not defined
+[2025-09-01T18:20:33.679Z] ERR /webhook ReferenceError: targetItemId is not defined
+[2025-09-01T18:21:57.772Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T18:22:00.148Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:22:00.152Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:22:00.410Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:22:00.411Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:22:02.835Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:22:02.836Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:22:05.618Z] ERR /webhook Error: [{"message":"Group not found","locations":[{"line":1,"column":66}],"path":["create_item"],"extensions":{"code":"ResourceNotFoundException","status_code":404,"error_data":{"resource_type":"group","group_id":"group_mkvcmpn2","board_id":2124645681,"error_reason":"store.monday.automation.error.missing_group"},"service":"monolith"}}]
+[2025-09-01T18:22:06.139Z] ERR /webhook ReferenceError: targetItemId is not defined
+[2025-09-01T18:22:07.677Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:22:07.678Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:22:09.412Z] ERR /webhook ReferenceError: targetItemId is not defined
+[2025-09-01T18:22:14.098Z] ERR /webhook ReferenceError: targetItemId is not defined
+[2025-09-01T18:22:25.162Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T18:22:28.118Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:22:28.120Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:22:34.162Z] ERR /webhook ReferenceError: targetItemId is not defined
+[2025-09-01T18:22:41.553Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T18:23:02.736Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:23:02.737Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:23:06.134Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:23:06.135Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:23:08.566Z] ERR /webhook ReferenceError: targetItemId is not defined
+[2025-09-01T18:23:12.356Z] ERR /webhook ReferenceError: targetItemId is not defined
+[2025-09-01T18:23:14.335Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:23:14.336Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:23:21.318Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T18:23:28.339Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:23:28.340Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:23:32.738Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:23:32.739Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:23:36.366Z] ERR /webhook Error: [{"message":"There are items that are not in the connected boards","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"column_type":"board-relation","column_id":"board_relation_mkvcmh47","column_value":"{\"linkedPulseIds\"=>[{\"linkedPulseId\"=>nil}]}","column_validation_error_code":"itemsNotInConnectedBoards","column_name":"Çıkış noktası"},"service":"monolith"}}]
+[2025-09-01T18:23:39.925Z] ERR /webhook Error: [{"message":"There are items that are not in the connected boards","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"column_type":"board-relation","column_id":"board_relation_mkvcmh47","column_value":"{\"linkedPulseIds\"=>[{\"linkedPulseId\"=>nil}]}","column_validation_error_code":"itemsNotInConnectedBoards","column_name":"Çıkış noktası"},"service":"monolith"}}]
+[2025-09-01T18:24:05.230Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T18:24:08.102Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:24:08.103Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:24:09.596Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:24:09.597Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:24:15.992Z] ERR /webhook Error: [{"message":"There are items that are not in the connected boards","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"column_type":"board-relation","column_id":"board_relation_mkvcmh47","column_value":"{\"linkedPulseIds\"=>[{\"linkedPulseId\"=>nil}]}","column_validation_error_code":"itemsNotInConnectedBoards","column_name":"Çıkış noktası"},"service":"monolith"}}]
+[2025-09-01T18:24:16.208Z] ERR /webhook Error: [{"message":"There are items that are not in the connected boards","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"column_type":"board-relation","column_id":"board_relation_mkvcmh47","column_value":"{\"linkedPulseIds\"=>[{\"linkedPulseId\"=>nil}]}","column_validation_error_code":"itemsNotInConnectedBoards","column_name":"Çıkış noktası"},"service":"monolith"}}]
+[2025-09-01T18:24:21.019Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T18:24:36.818Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T18:24:57.467Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:24:57.468Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:25:02.337Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:25:02.338Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:25:03.974Z] ERR /webhook Error: [{"message":"There are items that are not in the connected boards","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"column_type":"board-relation","column_id":"board_relation_mkvcmh47","column_value":"{\"linkedPulseIds\"=>[{\"linkedPulseId\"=>nil}]}","column_validation_error_code":"itemsNotInConnectedBoards","column_name":"Çıkış noktası"},"service":"monolith"}}]
+[2025-09-01T18:25:09.330Z] ERR /webhook Error: [{"message":"There are items that are not in the connected boards","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"column_type":"board-relation","column_id":"board_relation_mkvcmh47","column_value":"{\"linkedPulseIds\"=>[{\"linkedPulseId\"=>nil}]}","column_validation_error_code":"itemsNotInConnectedBoards","column_name":"Çıkış noktası"},"service":"monolith"}}]
+[2025-09-01T18:25:14.230Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:25:14.231Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:25:20.665Z] ERR /webhook Error: [{"message":"There are items that are not in the connected boards","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"column_type":"board-relation","column_id":"board_relation_mkvcmh47","column_value":"{\"linkedPulseIds\"=>[{\"linkedPulseId\"=>nil}]}","column_validation_error_code":"itemsNotInConnectedBoards","column_name":"Çıkış noktası"},"service":"monolith"}}]
+[2025-09-01T18:25:32.992Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T18:25:57.040Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:25:57.041Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:26:02.349Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:26:02.350Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:26:05.939Z] EXIT OK: 1212 -11 [0→0]
+[2025-09-01T18:26:07.570Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:26:07.571Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:26:11.154Z] EXIT OK: 1212 -11 [0→0]
+[2025-09-01T18:28:51.378Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T18:29:00.003Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:29:00.004Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:29:15.913Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T18:29:26.143Z] safeText: cv.value="11122211"
+[2025-09-01T18:29:26.145Z] safeText: cv.value="1212"
+[2025-09-01T18:29:26.146Z] safeText: cv.value="2222"
+[2025-09-01T18:29:26.147Z] safeText: cv.value="556677"
+[2025-09-01T18:29:26.149Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:29:26.150Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:29:34.944Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T18:29:40.946Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T18:30:31.356Z] EXIT AUTO-LINK: 2126043597 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T18:31:43.546Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:31:43.547Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:31:49.791Z] EXIT REPORT WARN: target relation çözülemedi (item 2126043597)
+[2025-09-01T18:31:52.969Z] EXIT OK: 1212 -12 [0→0]
+[2025-09-01T18:35:15.015Z] [ACO Stock Suite] listening on :8080
+[2025-09-01T18:35:25.959Z] EXIT AUTO-LINK: 2126045766 -> catalog 2075507761 (barcode=1212)
+[2025-09-01T18:35:43.382Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-01T18:35:43.383Z] EXIT webhook trigger: group=topics
+[2025-09-01T18:35:53.550Z] EXIT OK: 1212 -12 [0→0]
+[2025-09-02T09:45:46.373Z] ENTRY AUTO-LINK: 2127109211 -> 2075507761 (1212)
+[2025-09-02T09:46:20.355Z] ENTRY webhook trigger: group=topics
+[2025-09-02T09:46:32.147Z] OK: 1212 +12 [0→12]
+[2025-09-02T09:47:18.010Z] EXIT AUTO-LINK: 2127118556 -> catalog 2075507761 (barcode=1212)
+[2025-09-02T09:49:01.646Z] ENTRY AUTO-LINK: 2127123756 -> 2075507761 (1212)
+[2025-09-02T09:49:04.202Z] ENTRY AUTO-LINK: 2127123853 -> 2078875489 (2222)
+[2025-09-02T09:49:18.335Z] ENTRY webhook trigger: group=topics
+[2025-09-02T09:49:30.417Z] OK: 1212 +12 [12→24]
+[2025-09-02T09:49:40.285Z] OK: 2222 +15 [151→166]
+[2025-09-02T09:49:58.605Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-02T09:49:58.606Z] EXIT webhook trigger: group=topics
+[2025-09-02T09:50:08.717Z] EXIT OK: 1212 -15 [24→9]
+[2025-09-02T10:18:05.181Z] ENTRY AUTO-LINK: 2127232366 -> 2075507761 (1212)
+[2025-09-02T10:18:14.290Z] ENTRY AUTO-LINK: 2127232849 -> 2078875489 (2222)
+[2025-09-02T10:18:50.726Z] ENTRY webhook trigger: group=topics
+[2025-09-02T10:19:02.809Z] OK: 1212 +15 [9→24]
+[2025-09-02T10:19:12.232Z] OK: 2222 +10 [166→176]
+[2025-09-02T10:19:37.137Z] EXIT AUTO-LINK: 2127236580 -> catalog 2075507761 (barcode=1212)
+[2025-09-02T10:20:08.860Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-02T10:20:08.861Z] EXIT webhook trigger: group=topics
+[2025-09-02T10:20:19.304Z] EXIT OK: 1212 -13 [24→11]
+[2025-09-02T10:54:51.825Z] ENTRY AUTO-LINK: 2127325310 -> 2075507761 (1212)
+[2025-09-02T10:55:18.574Z] ENTRY AUTO-LINK: 2127328491 -> 2078875489 (2222)
+[2025-09-02T10:55:30.939Z] ENTRY webhook trigger: group=topics
+[2025-09-02T10:55:42.817Z] OK: 1212 +12 [11→23]
+[2025-09-02T10:55:52.379Z] OK: 2222 +13 [176→189]
+[2025-09-02T10:58:10.826Z] ENTRY AUTO-LINK: 2127344112 -> 2075507761 (1212)
+[2025-09-02T10:59:59.129Z] EXIT AUTO-LINK: 2127348394 -> catalog 2075507761 (barcode=1212)
+[2025-09-03T19:40:25.571Z] [ACO Stock Suite] listening on :8080
+[2025-09-03T19:40:55.291Z] ENTRY webhook trigger: group=topics
+[2025-09-03T19:40:59.491Z] notify error uid=12345678 err=AxiosError: Request failed with status code 400
+[2025-09-03T19:41:00.409Z] notify error uid=98765432 err=AxiosError: Request failed with status code 400
+[2025-09-03T19:41:00.410Z] ALERT sent for entry item 2127344112 (qc=true, count=false)
+[2025-09-03T19:41:10.242Z] OK: 1212 +12 [23→35]
+[2025-09-03T19:41:11.277Z] NOT FOUND: 6534
+[2025-09-03T19:46:58.494Z] [ACO Stock Suite] listening on :8080
+[2025-09-03T19:47:15.917Z] ENTRY AUTO-LINK: 2130488236 -> 2075507761 (1212)
+[2025-09-03T19:47:25.155Z] ENTRY webhook trigger: group=topics
+[2025-09-03T19:47:27.998Z] NOT FOUND: 6534
+[2025-09-03T19:47:30.045Z] notify error uid=12345678 err=AxiosError: Request failed with status code 400
+[2025-09-03T19:47:30.659Z] notify error uid=98765432 err=AxiosError: Request failed with status code 400
+[2025-09-03T19:47:30.660Z] ALERT sent for entry item 2130488236 (qc=true, count=false)
+[2025-09-03T19:47:40.387Z] OK: 1212 +23 [35→58]
+[2025-09-03T19:48:10.923Z] ENTRY AUTO-LINK: 2130489002 -> 2075507761 (1212)
+[2025-09-03T19:48:47.334Z] [ACO Stock Suite] listening on :8080
+[2025-09-03T19:49:00.599Z] ENTRY webhook trigger: group=topics
+[2025-09-03T19:49:04.662Z] notify error uid=12345678 err=AxiosError: Request failed with status code 400
+[2025-09-03T19:49:05.173Z] notify error uid=98765432 err=AxiosError: Request failed with status code 400
+[2025-09-03T19:49:05.174Z] ALERT & BLOCK: entry item 2130489002 (qc=true, count=false) — işlem durduruldu
+[2025-09-03T19:50:07.307Z] [ACO Stock Suite] listening on :8080
+[2025-09-03T19:50:23.924Z] ENTRY AUTO-LINK: 2130490159 -> 2075507761 (1212)
+[2025-09-03T19:50:25.164Z] ENTRY AUTO-LINK: 2130490168 -> 2078875489 (2222)
+[2025-09-03T19:50:33.140Z] ENTRY webhook trigger: group=topics
+[2025-09-03T19:50:44.713Z] OK: 1212 +12 [58→70]
+[2025-09-03T19:50:47.192Z] notify error uid=53877622 err=AxiosError: Request failed with status code 400
+[2025-09-03T19:50:47.194Z] ALERT & BLOCK: entry item 2130490159 (qc=true, count=false) — işlem durduruldu
+[2025-09-03T19:50:49.217Z] notify error uid=53877622 err=AxiosError: Request failed with status code 400
+[2025-09-03T19:50:49.218Z] ALERT & BLOCK: entry item 2130490168 (qc=false, count=true) — işlem durduruldu
+[2025-09-03T19:58:24.121Z] [ACO Stock Suite] listening on :8080
+[2025-09-03T19:58:46.104Z] ENTRY AUTO-LINK: 2130494271 -> 2075507761 (1212)
+[2025-09-03T19:58:52.563Z] ENTRY webhook trigger: group=topics
+[2025-09-03T19:58:56.758Z] notify error uid=20531090 err=AxiosError: Request failed with status code 400
+[2025-09-03T19:58:56.759Z] ALERT & BLOCK: entry item 2130490159 (qc=true, count=false) — işlem durduruldu
+[2025-09-03T19:58:58.612Z] notify error uid=20531090 err=AxiosError: Request failed with status code 400
+[2025-09-03T19:58:58.613Z] ALERT & BLOCK: entry item 2130490168 (qc=false, count=true) — işlem durduruldu
+[2025-09-03T19:59:00.745Z] notify error uid=20531090 err=AxiosError: Request failed with status code 400
+[2025-09-03T19:59:00.747Z] ALERT & BLOCK: entry item 2130494271 (qc=true, count=false) — işlem durduruldu
+[2025-09-03T20:04:21.132Z] [ACO Stock Suite] listening on :8080
+[2025-09-03T20:04:32.833Z] ENTRY webhook trigger: group=topics
+[2025-09-03T20:04:35.901Z] notify error uid=20531090 err=AxiosError: Request failed with status code 400
+[2025-09-03T20:04:37.744Z] notify error uid=20531090 err=AxiosError: Request failed with status code 400
+[2025-09-03T20:04:39.519Z] notify error uid=20531090 err=AxiosError: Request failed with status code 400
+[2025-09-03T20:04:39.520Z] BATCH BLOCKED: 3 item eksik (QC/Sayım). Hiçbir işlem yapılmadı.
+[2025-09-03T20:05:04.492Z] ENTRY AUTO-LINK: 2130497865 -> 2075507761 (1212)
+[2025-09-03T20:05:06.725Z] ENTRY AUTO-LINK: 2130497894 -> 2078875489 (2222)
+[2025-09-03T20:05:12.091Z] ENTRY webhook trigger: group=topics
+[2025-09-03T20:05:14.915Z] notify error uid=20531090 err=AxiosError: Request failed with status code 400
+[2025-09-03T20:05:14.916Z] BATCH BLOCKED: 1 item eksik (QC/Sayım). Hiçbir işlem yapılmadı.
+[2025-09-03T20:06:04.192Z] ENTRY AUTO-LINK: 2130498399 -> 2075507761 (1212)
+[2025-09-03T20:06:09.825Z] ENTRY AUTO-LINK: 2130498435 -> 2078875489 (2222)
+[2025-09-03T20:06:16.298Z] ENTRY webhook trigger: group=topics
+[2025-09-03T20:06:19.735Z] notify error uid=20531090 err=AxiosError: Request failed with status code 400
+[2025-09-03T20:06:21.593Z] notify error uid=20531090 err=AxiosError: Request failed with status code 400
+[2025-09-03T20:06:24.140Z] notify error uid=20531090 err=AxiosError: Request failed with status code 400
+[2025-09-03T20:06:24.141Z] BATCH BLOCKED: 3 item eksik (QC/Sayım). Hiçbir işlem yapılmadı.
+[2025-09-03T20:08:34.711Z] [ACO Stock Suite] listening on :8080
+[2025-09-03T20:09:03.780Z] ENTRY AUTO-LINK: 2130499879 -> 2075507761 (1212)
+[2025-09-03T20:09:06.748Z] ENTRY webhook trigger: group=topics
+[2025-09-03T20:09:10.133Z] notify error uid=20531090 updateId=455709044 err=Request failed with status code 400
+[2025-09-03T20:09:10.639Z] notify error uid=53817857 updateId=455709044 err=Request failed with status code 400
+[2025-09-03T20:09:12.500Z] notify error uid=20531090 updateId=455709049 err=Request failed with status code 400
+[2025-09-03T20:09:13.016Z] notify error uid=53817857 updateId=455709049 err=Request failed with status code 400
+[2025-09-03T20:09:15.042Z] notify error uid=20531090 updateId=455709057 err=Request failed with status code 400
+[2025-09-03T20:09:15.553Z] notify error uid=53817857 updateId=455709057 err=Request failed with status code 400
+[2025-09-03T20:09:17.308Z] notify error uid=20531090 updateId=455709060 err=Request failed with status code 400
+[2025-09-03T20:09:17.718Z] notify error uid=53817857 updateId=455709060 err=Request failed with status code 400
+[2025-09-03T20:09:17.719Z] BATCH BLOCKED: 4 item eksik (QC/Sayım). Hiçbir işlem yapılmadı.
+[2025-09-03T20:15:37.236Z] [ACO Stock Suite] listening on :8080
+[2025-09-03T20:17:17.667Z] ENTRY webhook trigger: group=topics
+[2025-09-03T20:17:20.837Z] notify error uid=20531090 updateId=455710257 err=Request failed with status code 400
+[2025-09-03T20:17:21.270Z] notify error uid=53817857 updateId=455710257 err=Request failed with status code 400
+[2025-09-03T20:17:23.191Z] notify error uid=20531090 updateId=455710261 err=Request failed with status code 400
+[2025-09-03T20:17:23.909Z] notify error uid=53817857 updateId=455710261 err=Request failed with status code 400
+[2025-09-03T20:17:25.649Z] notify error uid=20531090 updateId=455710268 err=Request failed with status code 400
+[2025-09-03T20:17:26.186Z] notify error uid=53817857 updateId=455710268 err=Request failed with status code 400
+[2025-09-03T20:17:28.208Z] notify error uid=20531090 updateId=455710272 err=Request failed with status code 400
+[2025-09-03T20:17:28.617Z] notify error uid=53817857 updateId=455710272 err=Request failed with status code 400
+[2025-09-03T20:17:28.618Z] BATCH BLOCKED: 4 item eksik (QC/Sayım). Hiçbir işlem yapılmadı.
+[2025-09-03T20:21:24.479Z] [ACO Stock Suite] listening on :8080
+[2025-09-03T20:21:48.822Z] ENTRY webhook trigger: group=topics
+[2025-09-03T20:21:50.044Z] batch alert error item 2130497894 -> ReferenceError: it is not defined
+[2025-09-03T20:21:50.046Z] batch alert error item 2130498399 -> ReferenceError: it is not defined
+[2025-09-03T20:21:50.047Z] batch alert error item 2130498435 -> ReferenceError: it is not defined
+[2025-09-03T20:21:50.050Z] batch alert error item 2130499879 -> ReferenceError: it is not defined
+[2025-09-03T20:21:50.053Z] BATCH BLOCKED: 4 item eksik (QC/Sayım). Hiçbir işlem yapılmadı.
+[2025-09-03T20:23:24.581Z] [ACO Stock Suite] listening on :8080
+[2025-09-03T20:23:38.823Z] ENTRY webhook trigger: group=topics
+[2025-09-03T20:23:45.658Z] BATCH BLOCKED: 4 item eksik (QC/Sayım). Hiçbir işlem yapılmadı.
+[2025-09-03T20:24:56.290Z] [ACO Stock Suite] listening on :8080
+[2025-09-03T20:25:08.537Z] ENTRY webhook trigger: group=topics
+[2025-09-03T20:25:15.403Z] BATCH BLOCKED: 4 item eksik (QC/Sayım). Hiçbir işlem yapılmadı.
+[2025-09-03T20:30:39.805Z] [ACO Stock Suite] listening on :8080
+[2025-09-03T20:30:58.461Z] ENTRY webhook trigger: group=topics
+[2025-09-03T20:31:00.148Z] batch alert error item 2130497894 -> Error: [{"message":"Unknown type \"UpdateMention\". Did you mean \"UpdatePin\"?","locations":[{"line":2,"column":56}]},{"message":"Unknown argument \"mentions_list\" on field \"Mutation.create_update\".","locations":[{"line":3,"column":52}]}]
+[2025-09-03T20:31:00.660Z] batch alert error item 2130498399 -> Error: [{"message":"Unknown type \"UpdateMention\". Did you mean \"UpdatePin\"?","locations":[{"line":2,"column":56}]},{"message":"Unknown argument \"mentions_list\" on field \"Mutation.create_update\".","locations":[{"line":3,"column":52}]}]
+[2025-09-03T20:31:01.069Z] batch alert error item 2130498435 -> Error: [{"message":"Unknown type \"UpdateMention\". Did you mean \"UpdatePin\"?","locations":[{"line":2,"column":56}]},{"message":"Unknown argument \"mentions_list\" on field \"Mutation.create_update\".","locations":[{"line":3,"column":52}]}]
+[2025-09-03T20:31:01.581Z] batch alert error item 2130499879 -> Error: [{"message":"Unknown type \"UpdateMention\". Did you mean \"UpdatePin\"?","locations":[{"line":2,"column":56}]},{"message":"Unknown argument \"mentions_list\" on field \"Mutation.create_update\".","locations":[{"line":3,"column":52}]}]
+[2025-09-03T20:31:01.582Z] BATCH BLOCKED: 4 item eksik (QC/Sayım). Hiçbir işlem yapılmadı.
+[2025-09-03T20:36:01.163Z] [ACO Stock Suite] listening on :8080
+[2025-09-03T20:36:18.819Z] ENTRY webhook trigger: group=topics
+[2025-09-03T20:36:21.792Z] notify error uid=20531090 err=Request failed with status code 400
+[2025-09-03T20:36:22.610Z] notify error uid=53817857 err=Request failed with status code 400
+[2025-09-04T09:29:09.920Z] [ACO Stock Suite] listening on :8080
+[2025-09-05T07:28:44.917Z] ENTRY webhook trigger: group=topics
+[2025-09-05T07:28:47.578Z] notify error uid=20531090 err=Request failed with status code 400
+[2025-09-05T07:28:48.112Z] notify error uid=53817857 err=Request failed with status code 400
+[2025-09-05T07:37:38.429Z] ENTRY AUTO-LINK: 2133486405 -> 2075507761 (1212)
+[2025-09-10T09:10:37.295Z] ENTRY webhook trigger: group=topics
+[2025-09-10T09:10:41.107Z] notify error uid=20531090 err=Request failed with status code 400
+[2025-09-10T09:10:41.933Z] notify error uid=53817857 err=Request failed with status code 400
+[2025-09-10T09:22:52.609Z] [ACO Stock Suite] listening on :8080
+[2025-09-10T09:23:50.500Z] ENTRY webhook trigger: group=topics
+[2025-09-10T09:23:51.873Z] addSubscribers warn: Error: [{"message":"Cannot query field \"add_subscribers_to_item\" on type \"Mutation\". Did you mean \"add_subscribers_to_board\" or \"add_users_to_team\"?","locations":[{"line":3,"column":7}]}]
+[2025-09-10T09:23:53.777Z] notify(Project) warn uid=20531090 err=Error: [{"message":"Variable \"$user_id\" of type \"Int!\" used in position expecting type \"ID!\".","locations":[{"line":2,"column":14},{"line":3,"column":36}]},{"message":"Variable \"$target_id\" of type \"Int!\" used in position expecting type \"ID!\".","locations":[{"line":2,"column":30},{"line":3,"column":57}]}]
+[2025-09-10T09:23:54.289Z] notify(Project) warn uid=53817857 err=Error: [{"message":"Variable \"$user_id\" of type \"Int!\" used in position expecting type \"ID!\".","locations":[{"line":2,"column":14},{"line":3,"column":36}]},{"message":"Variable \"$target_id\" of type \"Int!\" used in position expecting type \"ID!\".","locations":[{"line":2,"column":30},{"line":3,"column":57}]}]
+[2025-09-10T09:23:54.291Z] ALERT & BLOCK: QC veya Sayım eksik olduğu için işlem tamamen durduruldu
+[2025-09-10T09:29:17.279Z] [ACO Stock Suite] listening on :8080
+[2025-09-10T09:29:56.908Z] ENTRY webhook trigger: group=topics
+[2025-09-10T09:29:57.857Z] ERR /webhook ReferenceError: itemsWithMissing is not defined
+[2025-09-10T09:37:34.648Z] [ACO Stock Suite] listening on :8080
+[2025-09-10T09:37:39.233Z] ENTRY webhook trigger: group=topics
+[2025-09-10T09:37:40.891Z] notify warn uid=20531090 err=Error: [{"message":"Invalid user id","locations":[{"line":1,"column":50}],"path":["create_notification"],"extensions":{"code":"InvalidUserIdException","status_code":200,"error_data":{"user_id":20531090},"service":"monolith"}}]
+[2025-09-10T09:37:41.692Z] ALERT & BLOCK: 1 item'da eksik var — işlem tamamen durduruldu
+[2025-09-10T09:37:55.760Z] ENTRY webhook trigger: group=topics
+[2025-09-10T09:37:57.290Z] notify warn uid=20531090 err=Error: [{"message":"Invalid user id","locations":[{"line":1,"column":50}],"path":["create_notification"],"extensions":{"code":"InvalidUserIdException","status_code":200,"error_data":{"user_id":20531090},"service":"monolith"}}]
+[2025-09-10T09:37:58.073Z] ALERT & BLOCK: 1 item'da eksik var — işlem tamamen durduruldu
+[2025-09-10T09:38:44.169Z] [ACO Stock Suite] listening on :8080
+[2025-09-10T09:38:54.612Z] ENTRY webhook trigger: group=topics
+[2025-09-10T09:38:56.957Z] ALERT & BLOCK: 1 item'da eksik var — işlem tamamen durduruldu
+[2025-09-10T09:41:07.748Z] [ACO Stock Suite] listening on :8080
+[2025-09-10T09:41:17.882Z] ENTRY webhook trigger: group=topics
+[2025-09-10T09:41:20.457Z] ALERT & BLOCK: 1 item'da eksik var — işlem tamamen durduruldu
+[2025-09-10T09:42:10.391Z] ENTRY AUTO-LINK: 2141093958 -> 2075507761 (1212)
+[2025-09-10T09:42:16.437Z] ENTRY webhook trigger: group=topics
+[2025-09-10T09:42:18.496Z] ALERT & BLOCK: 1 item'da eksik var — işlem tamamen durduruldu
+[2025-09-10T09:50:44.570Z] [ACO Stock Suite] listening on :8080
+[2025-09-10T09:51:37.228Z] [ACO Stock Suite] listening on :8080
+[2025-09-10T09:51:50.004Z] ENTRY webhook trigger: group=topics
+[2025-09-10T09:51:53.472Z] ALERT & BLOCK: 1 barkod isimli item'da eksik var — işlem tamamen durduruldu
+[2025-09-10T09:56:33.582Z] [ACO Stock Suite] listening on :8080
+[2025-09-10T09:56:49.725Z] [ACO Stock Suite] listening on :8080
+[2025-09-10T09:59:56.841Z] [ACO Stock Suite] listening on :8080
+[2025-09-10T10:00:17.074Z] ENTRY webhook trigger: group=topics
+[2025-09-10T10:00:34.306Z] ALERT & BLOCK: 1 barkod isimli item'da eksik var — işlem tamamen durduruldu
+[2025-09-10T10:00:34.310Z] ERR /webhook ReferenceError: archiveOrDelete is not defined
+[2025-09-10T10:02:05.091Z] [ACO Stock Suite] listening on :8080
+[2025-09-10T10:02:17.292Z] ENTRY webhook trigger: group=topics
+[2025-09-10T10:02:20.480Z] ALERT & BLOCK: 1 barkod isimli item'da eksik var — işlem tamamen durduruldu
+[2025-09-10T10:02:20.687Z] ERR /webhook AxiosError: Request failed with status code 401
+[2025-09-10T10:03:17.062Z] ENTRY webhook trigger: group=topics
+[2025-09-10T10:03:19.982Z] ALERT & BLOCK: 1 barkod isimli item'da eksik var — işlem tamamen durduruldu
+[2025-09-10T10:03:20.175Z] ERR /webhook AxiosError: Request failed with status code 401
+[2025-09-10T10:03:50.466Z] [ACO Stock Suite] listening on :8080
+[2025-09-10T10:07:32.292Z] [ACO Stock Suite] listening on :8080
+[2025-09-10T10:08:37.410Z] ENTRY webhook trigger: group=topics
+[2025-09-10T10:08:40.387Z] ALERT & BLOCK: 1 barkod isimli item'da eksik var — işlem tamamen durduruldu
+[2025-09-10T10:08:40.388Z] WARN complete remove failed: ReferenceError: completeMode is not defined
+[2025-09-10T10:08:42.044Z] ENTRY webhook trigger: group=topics
+[2025-09-10T10:08:45.495Z] ALERT & BLOCK: 1 barkod isimli item'da eksik var — işlem tamamen durduruldu
+[2025-09-10T10:08:45.496Z] WARN complete remove failed: ReferenceError: completeMode is not defined
+[2025-09-10T10:09:24.706Z] [ACO Stock Suite] listening on :8080
+[2025-09-10T10:09:34.751Z] ENTRY webhook trigger: group=topics
+[2025-09-10T10:09:38.172Z] ALERT & BLOCK: 1 barkod isimli item'da eksik var — işlem tamamen durduruldu
+[2025-09-10T10:09:39.254Z] COMPLETE removed: 2141167640 mode=delete
+[2025-09-10T10:09:59.844Z] ENTRY AUTO-LINK: 2141168706 -> 2078875489 (2222)
+[2025-09-10T10:10:17.069Z] ENTRY AUTO-LINK: 2141169083 -> 2075507761 (1212)
+[2025-09-10T10:10:23.695Z] ENTRY webhook trigger: group=topics
+[2025-09-10T10:10:30.888Z] ALERT & BLOCK: 3 barkod isimli item'da eksik var — işlem tamamen durduruldu
+[2025-09-10T10:10:31.997Z] COMPLETE removed: 2141169535 mode=delete
+[2025-09-10T10:18:49.850Z] [ACO Stock Suite] listening on :8080
+[2025-09-10T10:18:58.701Z] ENTRY AUTO-LINK: 2141188655 -> 2075507761 (1212)
+[2025-09-10T10:19:08.298Z] ENTRY webhook trigger: group=topics
+[2025-09-10T10:19:12.395Z] COMPLETE removed: 2141189009 mode=delete
+[2025-09-10T10:19:12.396Z] ALERT & BLOCK: 1 itemde eksik var — işlem tamamen durduruldu
+[2025-09-10T10:19:25.313Z] ENTRY AUTO-LINK: 2141189652 -> 2075507761 (1212)
+[2025-09-10T10:19:32.570Z] ENTRY AUTO-LINK: 2141190317 -> 2078875489 (2222)
+[2025-09-10T10:19:36.970Z] ENTRY webhook trigger: group=topics
+[2025-09-10T10:19:43.812Z] COMPLETE removed: 2141190474 mode=delete
+[2025-09-10T10:19:43.815Z] ALERT & BLOCK: 3 itemde eksik var — işlem tamamen durduruldu
+[2025-09-10T10:20:58.572Z] [ACO Stock Suite] listening on :8080
+[2025-09-10T10:21:16.294Z] ENTRY webhook trigger: group=topics
+[2025-09-10T10:21:23.483Z] COMPLETE removed: 2141193918 mode=delete
+[2025-09-10T10:21:23.484Z] ALERT & BLOCK: 3 itemde eksik var — işlem tamamen durduruldu
+[2025-09-10T10:24:37.606Z] [ACO Stock Suite] listening on :8080
+[2025-09-10T10:24:42.231Z] ENTRY webhook trigger: group=topics
+[2025-09-10T10:24:43.181Z] isChecked cv: {"id":"boolean_mkv5qpg0","text":"v","value":"{\"checked\":true,\"changed_at\":\"2025-09-10T10:19:01.144Z\"}"}
+[2025-09-10T10:24:43.183Z] isChecked cv: {"id":"boolean_mkv5t2r4","text":"","value":"{\"checked\":false}"}
+[2025-09-10T10:24:43.184Z] isChecked cv: {"id":"boolean_mkv5qpg0","text":"v","value":"{\"checked\":true,\"changed_at\":\"2025-09-10T10:19:23.744Z\"}"}
+[2025-09-10T10:24:43.185Z] isChecked cv: {"id":"boolean_mkv5t2r4","text":"v","value":"{\"checked\":true,\"changed_at\":\"2025-09-10T10:19:25.172Z\"}"}
+[2025-09-10T10:24:43.186Z] isChecked cv: {"id":"boolean_mkv5qpg0","text":"v","value":"{\"checked\":true,\"changed_at\":\"2025-09-10T10:19:31.011Z\"}"}
+[2025-09-10T10:24:43.187Z] isChecked cv: {"id":"boolean_mkv5t2r4","text":"v","value":"{\"checked\":true,\"changed_at\":\"2025-09-10T10:19:31.527Z\"}"}
+[2025-09-10T10:24:48.908Z] COMPLETE removed: 2141201811 mode=delete
+[2025-09-10T10:24:48.909Z] ALERT & BLOCK: 3 itemde eksik var — işlem tamamen durduruldu
+[2025-09-10T10:26:18.316Z] [ACO Stock Suite] listening on :8080
+[2025-09-10T10:26:23.612Z] ENTRY webhook trigger: group=topics
+[2025-09-10T10:26:24.765Z] isChecked cv: {"id":"boolean_mkv5qpg0","text":"v","value":"{\"checked\":true,\"changed_at\":\"2025-09-10T10:19:01.144Z\"}"}
+[2025-09-10T10:26:24.766Z] isChecked cv: {"id":"boolean_mkv5t2r4","text":"","value":"{\"checked\":false}"}
+[2025-09-10T10:26:24.767Z] Item 2141188655 - QC: false, Count: false
+[2025-09-10T10:26:24.768Z] isChecked cv: {"id":"boolean_mkv5qpg0","text":"v","value":"{\"checked\":true,\"changed_at\":\"2025-09-10T10:19:23.744Z\"}"}
+[2025-09-10T10:26:24.769Z] isChecked cv: {"id":"boolean_mkv5t2r4","text":"v","value":"{\"checked\":true,\"changed_at\":\"2025-09-10T10:19:25.172Z\"}"}
+[2025-09-10T10:26:24.770Z] Item 2141189652 - QC: false, Count: false
+[2025-09-10T10:26:24.770Z] isChecked cv: {"id":"boolean_mkv5qpg0","text":"v","value":"{\"checked\":true,\"changed_at\":\"2025-09-10T10:19:31.011Z\"}"}
+[2025-09-10T10:26:24.771Z] isChecked cv: {"id":"boolean_mkv5t2r4","text":"v","value":"{\"checked\":true,\"changed_at\":\"2025-09-10T10:19:31.527Z\"}"}
+[2025-09-10T10:26:24.773Z] Item 2141190317 - QC: false, Count: false
+[2025-09-10T10:26:30.661Z] COMPLETE removed: 2141207214 mode=delete
+[2025-09-10T10:26:30.662Z] ALERT & BLOCK: 3 itemde eksik var — işlem tamamen durduruldu
+[2025-09-10T10:33:16.137Z] [ACO Stock Suite] listening on :8080
+[2025-09-10T10:34:01.544Z] ENTRY webhook trigger: group=topics
+[2025-09-10T10:34:02.570Z] Item 2141188655 - QC: true, Count: false
+[2025-09-10T10:34:02.572Z] Item 2141189652 - QC: true, Count: true
+[2025-09-10T10:34:02.573Z] Item 2141190317 - QC: true, Count: true
+[2025-09-10T10:34:05.958Z] COMPLETE removed: 2141223765 mode=delete
+[2025-09-10T10:34:05.959Z] ALERT & BLOCK: 1 itemde eksik var — işlem tamamen durduruldu
+[2025-09-10T10:36:51.429Z] ENTRY webhook trigger: group=topics
+[2025-09-10T10:36:52.351Z] Item 2141188655 - QC: true, Count: true
+[2025-09-10T10:36:52.353Z] Item 2141189652 - QC: true, Count: true
+[2025-09-10T10:36:52.354Z] Item 2141190317 - QC: true, Count: true
+[2025-09-10T10:37:03.415Z] OK: 1212 +1 [70→71]
+[2025-09-10T10:37:12.218Z] OK: 1212 +3 [71→74]
+[2025-09-10T10:37:21.228Z] OK: 2222 +3 [189→192]
+[2025-09-10T11:12:07.310Z] [ACO Stock Suite] listening on :8080
+[2025-09-10T11:12:54.285Z] [ACO Stock Suite] listening on :8080
+[2025-09-10T11:13:06.529Z] ENTRY AUTO-LINK: 2141352141 -> 2075507761 (1212)
+[2025-09-10T11:13:21.683Z] ENTRY AUTO-LINK: 2141352538 -> 2078875489 (2222)
+[2025-09-10T11:13:28.236Z] ENTRY webhook trigger: group=topics
+[2025-09-10T11:13:29.671Z] Item 2141352141 - QC: true, Count: true
+[2025-09-10T11:13:29.672Z] Item 2141352538 - QC: true, Count: true
+[2025-09-10T11:13:40.933Z] OK: 1212 +1 [74→75]
+[2025-09-10T11:13:50.899Z] OK: 2222 +1 [192→193]
+[2025-09-10T11:35:29.650Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-10T11:35:29.653Z] EXIT webhook trigger: group=topics
+[2025-09-10T11:35:33.172Z] ALERT & BLOCK: entry item 2127348394 (qc=false, count=false) — işlem durduruldu
+[2025-09-10T11:36:48.543Z] [ACO Stock Suite] listening on :8080
+[2025-09-10T11:36:55.264Z] EXIT AUTO-LINK SKIP: barcode='tamamla' katalogda yok
+[2025-09-10T11:36:55.265Z] EXIT webhook trigger: group=topics
+[2025-09-10T11:37:05.498Z] EXIT OK: 1212 -1 [75→74]
+[2025-09-12T07:04:14.235Z] [ACO Stock Suite] listening on :8080
+[2025-09-12T16:53:28.210Z] [ACO Stock Suite] listening on :8080
+[2025-09-15T06:00:42.901Z] [ACO Stock Suite] listening on :8080
+[2025-09-29T06:51:09.837Z] [ACO Stock Suite] listening on :8080
+[2025-09-29T06:51:18.117Z] ENTRY AUTO-LINK: 5017123043 -> 5017084908 (56005005)
+[2025-09-29T06:51:29.449Z] ENTRY AUTO-LINK: 5017124186 -> 5017084908 (56005005)
+[2025-09-29T06:51:52.420Z] ENTRY webhook trigger: group=topics
+[2025-09-29T06:51:53.456Z] Item 5017124186 - QC: true, Count: true
+[2025-09-29T06:52:06.825Z] OK: 56005005 +1 [0→1]
+[2025-10-06T16:20:07.283Z] [ACO Stock Suite] listening on :8080
+[2025-10-08T10:30:42.555Z] ENTRY AUTO-LINK: 5033432207 -> 5017084908 (56005005)
+[2025-10-08T10:32:42.452Z] ENTRY AUTO-LINK: 5033435891 -> 5017084933 (15001027)
+[2025-10-08T10:37:38.591Z] ENTRY AUTO-LINK: 5033445786 -> 5017084933 (15001027)
+[2025-10-08T10:50:09.536Z] ENTRY AUTO-LINK: 5033477766 -> 5017084933 (15001027)
+[2025-10-08T10:50:27.018Z] ENTRY AUTO-LINK: 5033480598 -> 5017084933 (15001027)
+[2025-10-08T10:52:49.972Z] ENTRY webhook trigger: group=topics
+[2025-10-08T10:52:51.128Z] Item 5033477766 - QC: true, Count: true
+[2025-10-08T10:52:51.129Z] Item 5033480598 - QC: true, Count: true
+[2025-10-08T10:53:04.327Z] OK: 15001027 +10 [0→10]
+[2025-10-08T10:53:15.161Z] OK: 15001027 +2 [10→12]
+[2025-10-09T11:02:58.391Z] ENTRY AUTO-LINK: 5035514982 -> 5017084933 (15001027)
+[2025-10-09T11:03:00.339Z] ENTRY webhook trigger: group=topics
+[2025-10-09T11:03:01.304Z] Item 5035514453 - QC: false, Count: false
+[2025-10-09T11:03:01.307Z] Item 5035514925 - QC: true, Count: true
+[2025-10-09T11:03:01.308Z] Item 5035514982 - QC: true, Count: true
+[2025-10-09T11:03:04.742Z] COMPLETE removed: 5035515033 mode=delete
+[2025-10-09T11:03:04.743Z] ALERT & BLOCK: 1 itemde eksik var — işlem tamamen durduruldu
+[2025-10-09T11:03:07.611Z] ENTRY webhook trigger: group=topics
+[2025-10-09T11:03:08.632Z] Item 5035514453 - QC: false, Count: false
+[2025-10-09T11:03:08.634Z] Item 5035514925 - QC: true, Count: true
+[2025-10-09T11:03:08.635Z] Item 5035514982 - QC: true, Count: true
+[2025-10-09T11:03:12.113Z] COMPLETE removed: 5035515262 mode=delete
+[2025-10-09T11:03:12.114Z] ALERT & BLOCK: 1 itemde eksik var — işlem tamamen durduruldu
+[2025-10-09T11:03:46.319Z] ENTRY webhook trigger: group=topics
+[2025-10-09T11:03:47.277Z] Item 5035514453 - QC: false, Count: false
+[2025-10-09T11:03:47.279Z] Item 5035514925 - QC: true, Count: true
+[2025-10-09T11:03:47.280Z] Item 5035514982 - QC: true, Count: true
+[2025-10-09T11:03:50.648Z] COMPLETE removed: 5035516454 mode=delete
+[2025-10-09T11:03:50.649Z] ALERT & BLOCK: 1 itemde eksik var — işlem tamamen durduruldu
+[2025-10-17T16:44:10.271Z] [ACO Stock Suite] listening on :8080
+[2025-10-17T16:44:12.963Z] [ACO Stock Suite] listening on :8080
+[2025-10-17T16:44:48.117Z] [ACO Stock Suite] listening on :8080
+[2025-11-05T18:02:03.222Z] [ACO Stock Suite] listening on :8080
+[2025-11-05T20:43:24.541Z] [ACO Stock Suite] listening on :8080
+[2025-11-06T08:27:13.191Z] ENTRY AUTO-LINK: 5082865306 -> 5017085050 (56001027)
+[2025-11-06T08:28:30.535Z] ENTRY webhook trigger: group=topics
+[2025-11-06T08:28:31.904Z] Item 5082865306 - QC: true, Count: true
+[2025-11-06T08:28:44.444Z] OK: 56001027 +1 [0→1]
+[2025-11-07T03:53:23.970Z] [ACO Stock Suite] listening on :8080
+[2025-11-14T03:59:46.776Z] [ACO Stock Suite] listening on :8080
+[2025-11-17T05:42:47.600Z] ENTRY AUTO-LINK: 2520666405 -> 5017084933 (15001027)
+[2025-11-17T05:47:47.023Z] EXIT AUTO-LINK: 2520702917 -> catalog 5017084992 (barcode=56003009)
+[2025-11-17T05:48:21.814Z] EXIT AUTO-LINK SKIP: barcode='575676' katalogda yok
+[2025-11-17T05:55:15.788Z] ENTRY AUTO-LINK: 2520681578 -> 5017084933 (15001027)
+[2025-11-17T05:55:25.975Z] ENTRY AUTO-LINK: 2520674831 -> 5017084933 (15001027)
+[2025-11-17T05:56:23.601Z] ENTRY webhook trigger: group=topics
+[2025-11-17T05:56:24.637Z] Item 2520666405 - QC: true, Count: true
+[2025-11-17T05:56:24.638Z] Item 2520681578 - QC: true, Count: true
+[2025-11-17T05:56:24.640Z] Item 2520674831 - QC: true, Count: true
+[2025-11-17T05:56:26.565Z] SKIP: item 2520666405 barkod='15001027' qty='0'
+[2025-11-17T05:56:26.566Z] SKIP: item 2520681578 barkod='15001027' qty='0'
+[2025-11-17T05:56:37.624Z] OK: 15001027 +25 [12→37]
+[2025-11-17T06:30:57.238Z] ENTRY webhook trigger: group=topics
+[2025-11-17T06:30:58.985Z] Item 2520666405 - QC: true, Count: true
+[2025-11-17T06:30:58.987Z] Item 2520681578 - QC: true, Count: true
+[2025-11-17T06:30:58.988Z] Item 2520681897 - QC: false, Count: false
+[2025-11-17T06:31:02.087Z] COMPLETE removed: 5086334885 mode=delete
+[2025-11-17T06:31:02.088Z] ALERT & BLOCK: 1 itemde eksik var — işlem tamamen durduruldu
+[2025-11-17T07:12:28.184Z] ENTRY webhook trigger: group=topics
+[2025-11-17T07:12:29.349Z] Item 2520666405 - QC: true, Count: true
+[2025-11-17T07:12:29.350Z] Item 2520681578 - QC: true, Count: true
+[2025-11-17T07:12:29.351Z] Item 2520681897 - QC: false, Count: false
+[2025-11-17T07:12:32.105Z] COMPLETE removed: 5086342978 mode=delete
+[2025-11-17T07:12:32.106Z] ALERT & BLOCK: 1 itemde eksik var — işlem tamamen durduruldu
+[2025-11-18T11:35:04.009Z] ENTRY AUTO-LINK: 5086872508 -> 5017084933 (15001027)
+[2025-11-18T11:38:24.649Z] ENTRY webhook trigger: group=topics
+[2025-11-18T11:38:25.794Z] Item 2520666405 - QC: true, Count: true
+[2025-11-18T11:38:25.795Z] Item 2520681578 - QC: true, Count: true
+[2025-11-18T11:38:25.796Z] Item 5086872508 - QC: true, Count: true
+[2025-11-18T11:38:25.798Z] Item 5086873057 - QC: true, Count: true
+[2025-11-18T11:38:38.701Z] OK: 15001027 +1 [37→38]
+[2025-11-18T11:38:40.443Z] EXIT AUTO-LINK: 5086874880 -> catalog 5017084908 (barcode=56005005)
+[2025-11-18T11:38:49.490Z] OK: 15001027 +1 [38→39]
+[2025-11-18T11:39:00.583Z] OK: 15001027 +1 [39→40]
+[2025-11-18T11:39:11.852Z] OK: 56003007 +2 [0→2]
+[2025-11-18T11:41:03.883Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2071456598,"inactive_pulse_ids":[5086873057]},"service":"monolith"}}]
+[2025-11-18T11:41:39.076Z] EXIT AUTO-LINK SKIP: barcode='TAMAMLA' katalogda yok
+[2025-11-18T11:41:39.077Z] EXIT webhook trigger: group=topics
+[2025-11-18T11:41:51.654Z] EXIT OK: 56005005 -5 [1→0]
+[2025-11-18T11:43:03.698Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2071456598,"inactive_pulse_ids":[5086873057]},"service":"monolith"}}]
+[2025-11-18T11:45:04.465Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2071456598,"inactive_pulse_ids":[5086873057]},"service":"monolith"}}]
+[2025-11-18T11:49:03.222Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2071456598,"inactive_pulse_ids":[5086873057]},"service":"monolith"}}]
+[2025-11-18T11:51:03.879Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2071456598,"inactive_pulse_ids":[5086873057]},"service":"monolith"}}]
+[2025-11-18T11:53:03.689Z] ERR /webhook Error: [{"message":"Cannot change column value for inactive items","locations":[{"line":1,"column":48}],"path":["change_multiple_column_values"],"extensions":{"code":"ColumnValueException","status_code":200,"error_data":{"board_id":2071456598,"inactive_pulse_ids":[5086873057]},"service":"monolith"}}]
